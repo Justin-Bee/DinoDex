@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DinoDex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="title_section1">History</string>
+    <string name="title_section2">Allosaurus</string>
+    <string name="title_section3">Amargasaurus</string>
+    <string name="title_section4">Ankylosaurus</string>
+    <string name="title_section5">Brachiosaurus</string>
+    <string name="title_section6">Crylophosaurus</string>
+    <string name="title_section7">Dimetrodon</string>
+    <string name="title_section8">Diplodocus</string>
+    <string name="title_section9">Gallimimus</string>
+    <string name="title_section10">Mosasaurus</string>
+    <string name="title_section11">Pteranodon</string>
+    <string name="title_section12">Spinosaurus</string>
+    <string name="title_section13">Stegosaurus</string>
+    <string name="title_section14">Styracosaurus</string>
+    <string name="title_section15">Tyrannosaurus Rex</string>
+    <string name="title_section16">Triceratops</string>
+    <string name="title_section17">Utah Raptor</string>
+    <string name="title_section18">Velociraptor</string>
+    <string name="index">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+<string name="history">History</string>
+<string name="allosaurus">Allosaurus</string>
+<string name="amargasaurus">Amargasaurus</string>
+<string name="ankylosaurus">Ankylosaurus</string>
+    <string name="baryonyx">Baryonyx</string>
+    <string name="brach">Brachiosaurus</string>
+    <string name="carnotaurus">Carnotaurus</string>
+    <string name="crylophosaurus">Crylophosaurus</string>
+    <string name="dimetrodon">Dimetrodon</string>
+    <string name="diplodocus">Diplodocus</string>
+    <string name="gallimimus">Gallimimus</string>
+    <string name="mosasaurus">Mosasaurus</string>
+    <string name="pteranodon">Pteranodon</string>
+    <string name="spinosaurus">Spinosaurus</string>
+    <string name="stegosaurus">Stegosaurus</string>
+    <string name="styracosaurus">Styracosaurus</string>
+    <string name="trex">T Rex</string>
+    <string name="triceratops">Triceratops</string>
+    <string name="utahraptor">Utah Raptor</string>
+    <string name="velociraptor">Velociraptor</string>
+
+
+
+<!-- navigation drawer item labels  -->
+<string-array name="nav_drawer_labels">
+    <item>@string/history</item>
+    <item>@string/allosaurus</item>
+    <item>@string/amargasaurus</item>
+    <item>@string/ankylosaurus</item>
+    <item>@string/baryonyx</item>
+    <item>@string/brach</item>
+    <item>@string/carnotaurus</item>
+    <item>@string/crylophosaurus</item>
+    <item>@string/dimetrodon</item>
+    <item>@string/diplodocus</item>
+    <item>@string/gallimimus</item>
+    <item>@string/mosasaurus</item>
+    <item>@string/pteranodon</item>
+    <item>@string/spinosaurus</item>
+    <item>@string/stegosaurus</item>
+    <item>@string/styracosaurus</item>
+    <item>@string/trex</item>
+    <item>@string/triceratops</item>
+    <item>@string/utahraptor</item>
+    <item>@string/velociraptor</item>
+
+
+</string-array>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
