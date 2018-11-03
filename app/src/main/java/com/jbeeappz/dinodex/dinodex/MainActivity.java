@@ -5,14 +5,14 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-public class MainActivity extends ActionBarActivity implements FragmentDrawer.FragmentDrawerListener {
+public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {
 
     private static String TAG = MainActivity.class.getSimpleName();
 
@@ -99,61 +99,61 @@ public class MainActivity extends ActionBarActivity implements FragmentDrawer.Fr
                 fragment= new brach();
                 title = getString(R.string.brach);
                 break;
-            case 5:
+            case 6:
                 fragment= new carnotaurus();
                 title = getString(R.string.carnotaurus);
                 break;
 
-            case 6:
+            case 7:
                 fragment = new crylophosaurus();
                 title = getString(R.string.crylophosaurus);
                 break;
-            case 7:
+            case 8:
                 fragment = new dimetrodon();
                 title = getString(R.string.dimetrodon);
                 break;
-            case 8:
+            case 9:
                 fragment = new diplodocus();
                 title = getString(R.string.diplodocus);
                 break;
-            case 9:
+            case 10:
                 fragment = new gallimimus();
                 title = getString(R.string.gallimimus);
                 break;
-            case 10:
+            case 11:
                 fragment = new mosasaurus();
                 title = getString(R.string.mosasaurus);
                 break;
-            case 11:
+            case 12:
                 fragment = new pteranodon();
                 title = getString(R.string.pteranodon);
                 break;
 
-            case 12:
+            case 13:
                 fragment = new spinosaurus();
                 title = getString(R.string.spinosaurus);
                 break;
-            case 13:
+            case 14:
                 fragment = new stegosaurus();
                 title = getString(R.string.stegosaurus);
                 break;
-            case 14:
+            case 15:
                 fragment = new styracosaurus();
                 title = getString(R.string.styracosaurus);
                 break;
-            case 15:
+            case 16:
                 fragment = new trex();
                 title = getString(R.string.trex);
                 break;
-            case 16:
+            case 17:
                 fragment = new triceratops();
                 title = getString(R.string.triceratops);
                 break;
-            case 17:
+            case 18:
                 fragment = new utahraptor();
                 title = getString(R.string.utahraptor);
                 break;
-            case 18:
+            case 19:
                 fragment = new velociraptor();
                 title = getString(R.string.velociraptor);
                 break;
