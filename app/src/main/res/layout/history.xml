@@ -39,14 +39,12 @@ tools:context=".history" android:background="#F87A17">
                 android:id="@+id/htxt1"
                 android:layout_below="@+id/textView2"
                 android:paddingBottom="15dp"
-                android:text="Dinosaurs first appeared during the Triassic period around 231 million years ago.  During this time period,
-                                all of the continents on earth formed one super continent called Pangea.  The climate during this time period
-                                was relatively hot and dry. There were vast deserts that covered the land and there were no polar ice caps."/>
+                android:text="Dinosaurs first appeared during the Triassic period around 231 million years ago.  During this time period, all of the continents on earth formed one super continent called Pangea.  The climate during this time period was relatively hot and dry. There were vast deserts that covered the land and there were no polar ice caps."/>
 
             <ImageView
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:background="@drawable/Pangaea"
+                android:background="@drawable/continent_pangea"
                 android:id="@+id/pangea"
                 android:layout_below="@+id/htxt1"
                 android:layout_alignParentRight="true"
