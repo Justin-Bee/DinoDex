@@ -82,6 +82,7 @@ tools:context=".history" android:background="#F87A17">
                 android:layout_below="@+id/htxt4"
                 android:paddingBottom="15dp"
                 android:text="Scientists believe that during the Jurassic Period dinosaurs may have evolved into birds."/>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -89,21 +90,22 @@ tools:context=".history" android:background="#F87A17">
                 android:id="@+id/htxt6"
                 android:layout_below="@+id/htxt5"
                 android:paddingBottom="15dp"
-                android:text="When dinosaurs first evolved all of earth's continents were joined together in one single super-continent called Pangaea."/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="15sp"
-                android:id="@+id/htxt7"
-                android:layout_below="@+id/htxt6"
-                android:paddingBottom="15dp"
                 android:text="Dinosaurs reproduced by laying eggs. The eggs were usually laid in nests."/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/eggs"
+                android:id="@+id/eggs"
+                android:layout_below="@+id/htxt6"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="15sp"
                 android:id="@+id/htxt8"
-                android:layout_below="@+id/htxt7"
+                android:layout_below="@+id/eggs"
                 android:paddingBottom="15dp"
                 android:text="Scientists now believe that most dinosaurs may have had feathers like birds. Fossil evidence shows that some dinosaurs had feathers."/>
             <TextView
