@@ -59,7 +59,17 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         }
 
         if(id == R.id.action_search){
-            Toast.makeText(getApplicationContext(), "Search action is selected!", Toast.LENGTH_SHORT).show();
+            Fragment fragment = null;
+            String title = getString(R.string.app_name);
+            fragment = new history();
+            title = getString(R.string.history);
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+            fragmentTransaction.replace(R.id.container_body, fragment);
+            fragmentTransaction.commit();
+
+            // set the toolbar title
+            getSupportActionBar().setTitle(title);
             return true;
         }
 
