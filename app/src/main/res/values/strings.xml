@@ -19,17 +19,18 @@
     <string name="title_section8">Dimetrodon</string>
     <string name="title_section9">Diplodocus</string>
     <string name="title_section10">Gallimimus</string>
-    <string name="title_section11">Guanlong</string>
-    <string name="title_section12">Iguanodon</string>
-    <string name="title_section13">Mosasaurus</string>
-    <string name="title_section14">Pteranodon</string>
-    <string name="title_section15">Spinosaurus</string>
-    <string name="title_section16">Stegosaurus</string>
-    <string name="title_section17">Styracosaurus</string>
-    <string name="title_section18">Tyrannosaurus Rex</string>
-    <string name="title_section19">Triceratops</string>
-    <string name="title_section20">Utah Raptor</string>
-    <string name="title_section21">Velociraptor</string>
+    <string name="title_section11">Gigantosaurus</string>
+    <string name="title_section12">Guanlong</string>
+    <string name="title_section13">Iguanodon</string>
+    <string name="title_section14">Mosasaurus</string>
+    <string name="title_section15">Pteranodon</string>
+    <string name="title_section16">Spinosaurus</string>
+    <string name="title_section17">Stegosaurus</string>
+    <string name="title_section18">Styracosaurus</string>
+    <string name="title_section19">Tyrannosaurus Rex</string>
+    <string name="title_section20">Triceratops</string>
+    <string name="title_section21">Utah Raptor</string>
+    <string name="title_section22">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -48,6 +49,7 @@
     <string name="dimetrodon">Dimetrodon</string>
     <string name="diplodocus">Diplodocus</string>
     <string name="gallimimus">Gallimimus</string>
+    <string name="gigantosaurus">Gigantosaurus</string>
     <string name="guanlong">Guanlong</string>
     <string name="iguanodon">Iguanodon</string>
     <string name="mosasaurus">Mosasaurus</string>
@@ -75,6 +77,7 @@
     <item>@string/dimetrodon</item>
     <item>@string/diplodocus</item>
     <item>@string/gallimimus</item>
+    <item>@string/gigantosaurus</item>
     <item>@string/guanlong</item>
     <item>@string/iguanodon</item>
     <item>@string/mosasaurus</item>
