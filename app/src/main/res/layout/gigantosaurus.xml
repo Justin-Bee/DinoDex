@@ -79,7 +79,7 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Size: 39 to 43 feet long"/>
-
+            </RelativeLayout>
         </ScrollView>
 
 
