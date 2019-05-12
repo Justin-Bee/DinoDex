@@ -8,8 +8,8 @@ android {
         applicationId "com.jbeeappz.dinodex.dinodex"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 13
-        versionName "1.8.2"
+        versionCode 14
+        versionName "2.0.1"
     }
     buildTypes {
         release {
