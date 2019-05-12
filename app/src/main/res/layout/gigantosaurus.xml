@@ -45,7 +45,7 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Guanlong means five colore crowned dragon"
+                    android:text="Guanlong means giant lizard"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -62,7 +62,7 @@
                     android:layout_below="@+id/dtext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Jurassic 160 million years ago"/>
+                    android:text="Lived During: Cretaceous Period"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
                     android:layout_below="@+id/dtext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in China"/>
+                    android:text="Found in South America"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -78,16 +78,8 @@
                     android:layout_below="@+id/dtext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 3 meters tall (9.8 feet)"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/dtext6"
-                    android:layout_below="@+id/dtext5"
-                    android:textSize="15sp"
-                    android:paddingBottom="15dp"
-                    android:text="Guanlong had a cranial crest for display."/>
-            </RelativeLayout>
+                    android:text="Size: 39 to 43 feet long"/>
+
         </ScrollView>
 
 
