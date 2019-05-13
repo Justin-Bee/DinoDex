@@ -54,7 +54,8 @@
                     android:layout_below="@+id/dtext1"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Diet: Carnivore"/>
+                    android:text="Diet: Carnivore. newly found fossil records show that not only did they
+eat fish, but also small mammals and birds."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
