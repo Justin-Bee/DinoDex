@@ -23,15 +23,16 @@
     <string name="title_section12">Guanlong</string>
     <string name="title_section13">Iguanodon</string>
     <string name="title_section14">Mosasaurus</string>
-    <string name="title_section15">Pteranodon</string>
-    <string name="title_section16">Spinosaurus</string>
-    <string name="title_section17">Stegosaurus</string>
-    <string name="title_section18">Styracosaurus</string>
-    <string name="title_section19">Therizonosaurus</string>
-    <string name="title_section20">Tyrannosaurus Rex</string>
-    <string name="title_section21">Triceratops</string>
-    <string name="title_section22">Utah Raptor</string>
-    <string name="title_section23">Velociraptor</string>
+    <string name="title_section15">Pachycephalosaurus</string>
+    <string name="title_section16">Pteranodon</string>
+    <string name="title_section17">Spinosaurus</string>
+    <string name="title_section18">Stegosaurus</string>
+    <string name="title_section19">Styracosaurus</string>
+    <string name="title_section20">Therizonosaurus</string>
+    <string name="title_section21">Tyrannosaurus Rex</string>
+    <string name="title_section22">Triceratops</string>
+    <string name="title_section23">Utah Raptor</string>
+    <string name="title_section24">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -54,6 +55,7 @@
     <string name="guanlong">Guanlong</string>
     <string name="iguanodon">Iguanodon</string>
     <string name="mosasaurus">Mosasaurus</string>
+    <string name="pachycephalosaurus">Pachycephalosaurus</string>
     <string name="pteranodon">Pteranodon</string>
     <string name="spinosaurus">Spinosaurus</string>
     <string name="stegosaurus">Stegosaurus</string>
@@ -83,6 +85,7 @@
     <item>@string/guanlong</item>
     <item>@string/iguanodon</item>
     <item>@string/mosasaurus</item>
+    <item>@string/pachycephalosaurus</item>
     <item>@string/pteranodon</item>
     <item>@string/spinosaurus</item>
     <item>@string/stegosaurus</item>

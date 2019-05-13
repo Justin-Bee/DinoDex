@@ -37,7 +37,7 @@
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/Therizinosaurus"
+                    android:background="@drawable/therizinosaurus"
                     android:id="@+id/allosaurus"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"

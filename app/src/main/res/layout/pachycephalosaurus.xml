@@ -32,7 +32,7 @@
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/Pachycephalosaurus"
+                    android:background="@drawable/pachycephalosaurus"
                     android:id="@+id/velociraptor"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"
