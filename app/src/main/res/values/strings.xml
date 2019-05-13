@@ -25,14 +25,15 @@
     <string name="title_section14">Mosasaurus</string>
     <string name="title_section15">Pachycephalosaurus</string>
     <string name="title_section16">Pteranodon</string>
-    <string name="title_section17">Spinosaurus</string>
-    <string name="title_section18">Stegosaurus</string>
-    <string name="title_section19">Styracosaurus</string>
-    <string name="title_section20">Therizonosaurus</string>
-    <string name="title_section21">Tyrannosaurus Rex</string>
-    <string name="title_section22">Triceratops</string>
-    <string name="title_section23">Utah Raptor</string>
-    <string name="title_section24">Velociraptor</string>
+    <string name="title_section17">Quetzalcoatlus</string>
+    <string name="title_section18">Spinosaurus</string>
+    <string name="title_section19">Stegosaurus</string>
+    <string name="title_section20">Styracosaurus</string>
+    <string name="title_section21">Therizonosaurus</string>
+    <string name="title_section22">Tyrannosaurus Rex</string>
+    <string name="title_section23">Triceratops</string>
+    <string name="title_section24">Utah Raptor</string>
+    <string name="title_section25">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -57,6 +58,7 @@
     <string name="mosasaurus">Mosasaurus</string>
     <string name="pachycephalosaurus">Pachycephalosaurus</string>
     <string name="pteranodon">Pteranodon</string>
+    <string name="quetzalcoatlus">Quetzalcoatlus</string>
     <string name="spinosaurus">Spinosaurus</string>
     <string name="stegosaurus">Stegosaurus</string>
     <string name="styracosaurus">Styracosaurus</string>
@@ -87,6 +89,7 @@
     <item>@string/mosasaurus</item>
     <item>@string/pachycephalosaurus</item>
     <item>@string/pteranodon</item>
+    <item>@string/quetzalcoatlus</item>
     <item>@string/spinosaurus</item>
     <item>@string/stegosaurus</item>
     <item>@string/styracosaurus</item>
