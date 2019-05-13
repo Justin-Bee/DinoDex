@@ -62,7 +62,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="fcf4ff" />
+                                      <entry key="backgroundColor" value="ffffff" />
                                       <entry key="foregroundImage" value="C:\Users\Bee\AndroidStudioProjects\DinoDex\app\src\main\res\drawable-hdpi\ic_launcher.png" />
                                     </map>
                                   </option>
