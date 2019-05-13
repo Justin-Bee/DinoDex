@@ -10,30 +10,31 @@
 
 
     <string name="title_section1">History</string>
-    <string name="title_section2">Allosaurus</string>
-    <string name="title_section3">Amargasaurus</string>
-    <string name="title_section4">Ankylosaurus</string>
-    <string name="title_section5">Brachiosaurus</string>
-    <string name="title_section6">Carnotaurus</string>
-    <string name="title_section7">Crylophosaurus</string>
-    <string name="title_section8">Dimetrodon</string>
-    <string name="title_section9">Diplodocus</string>
-    <string name="title_section10">Gallimimus</string>
-    <string name="title_section11">Gigantosaurus</string>
-    <string name="title_section12">Guanlong</string>
-    <string name="title_section13">Iguanodon</string>
-    <string name="title_section14">Mosasaurus</string>
-    <string name="title_section15">Pachycephalosaurus</string>
-    <string name="title_section16">Pteranodon</string>
-    <string name="title_section17">Quetzalcoatlus</string>
-    <string name="title_section18">Spinosaurus</string>
-    <string name="title_section19">Stegosaurus</string>
-    <string name="title_section20">Styracosaurus</string>
-    <string name="title_section21">Therizonosaurus</string>
-    <string name="title_section22">Tyrannosaurus Rex</string>
-    <string name="title_section23">Triceratops</string>
-    <string name="title_section24">Utah Raptor</string>
-    <string name="title_section25">Velociraptor</string>
+    <string name="title_section2">Albertosaurus</string>
+    <string name="title_section3">Allosaurus</string>
+    <string name="title_section4">Amargasaurus</string>
+    <string name="title_section5">Ankylosaurus</string>
+    <string name="title_section6">Brachiosaurus</string>
+    <string name="title_section7">Carnotaurus</string>
+    <string name="title_section8">Crylophosaurus</string>
+    <string name="title_section9">Dimetrodon</string>
+    <string name="title_section10">Diplodocus</string>
+    <string name="title_section11">Gallimimus</string>
+    <string name="title_section12">Gigantosaurus</string>
+    <string name="title_section13">Guanlong</string>
+    <string name="title_section14">Iguanodon</string>
+    <string name="title_section15">Mosasaurus</string>
+    <string name="title_section16">Pachycephalosaurus</string>
+    <string name="title_section17">Pteranodon</string>
+    <string name="title_section18">Quetzalcoatlus</string>
+    <string name="title_section19">Spinosaurus</string>
+    <string name="title_section20">Stegosaurus</string>
+    <string name="title_section21">Styracosaurus</string>
+    <string name="title_section22">Therizonosaurus</string>
+    <string name="title_section23">Tyrannosaurus Rex</string>
+    <string name="title_section24">Triceratops</string>
+    <string name="title_section25">Utah Raptor</string>
+    <string name="title_section26">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -42,6 +43,7 @@
 
 
 <string name="history">History</string>
+    <string name="albertosaurus">Albertosaurus</string>
 <string name="allosaurus">Allosaurus</string>
 <string name="amargasaurus">Amargasaurus</string>
 <string name="ankylosaurus">Ankylosaurus</string>
@@ -73,6 +75,7 @@
 <!-- navigation drawer item labels  -->
 <string-array name="nav_drawer_labels">
     <item>@string/history</item>
+    <item>@string/albertosaurus</item>
     <item>@string/allosaurus</item>
     <item>@string/amargasaurus</item>
     <item>@string/ankylosaurus</item>
