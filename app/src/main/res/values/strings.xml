@@ -25,20 +25,21 @@
     <string name="title_section14">Gigantosaurus</string>
     <string name="title_section15">Guanlong</string>
     <string name="title_section16">Iguanodon</string>
-    <string name="title_section17">Mircoraptor</string>
-    <string name="title_section18">Mosasaurus</string>
-    <string name="title_section19">Pachycephalosaurus</string>
-    <string name="title_section20">Pteranodon</string>
-    <string name="title_section21">Quetzalcoatlus</string>
-    <string name="title_section22">Spinosaurus</string>
-    <string name="title_section23">Stegosaurus</string>
-    <string name="title_section24">Struthiomimus</string>
-    <string name="title_section25">Styracosaurus</string>
-    <string name="title_section26">Therizonosaurus</string>
-    <string name="title_section27">Tyrannosaurus Rex</string>
-    <string name="title_section28">Triceratops</string>
-    <string name="title_section29">Utah Raptor</string>
-    <string name="title_section30">Velociraptor</string>
+    <string name="title_section17">Liopleurodon</string>
+    <string name="title_section18">Mircoraptor</string>
+    <string name="title_section19">Mosasaurus</string>
+    <string name="title_section20">Pachycephalosaurus</string>
+    <string name="title_section21">Pteranodon</string>
+    <string name="title_section22">Quetzalcoatlus</string>
+    <string name="title_section23">Spinosaurus</string>
+    <string name="title_section24">Stegosaurus</string>
+    <string name="title_section25">Struthiomimus</string>
+    <string name="title_section26">Styracosaurus</string>
+    <string name="title_section27">Therizonosaurus</string>
+    <string name="title_section28">Tyrannosaurus Rex</string>
+    <string name="title_section29">Triceratops</string>
+    <string name="title_section30">Utah Raptor</string>
+    <string name="title_section31">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -63,6 +64,7 @@
     <string name="gigantosaurus">Gigantosaurus</string>
     <string name="guanlong">Guanlong</string>
     <string name="iguanodon">Iguanodon</string>
+    <string name="liopleurodon">Liopleurodon</string>
     <string name="microraptor">Microraptor</string>
     <string name="mosasaurus">Mosasaurus</string>
     <string name="pachycephalosaurus">Pachycephalosaurus</string>
@@ -99,6 +101,7 @@
     <item>@string/gigantosaurus</item>
     <item>@string/guanlong</item>
     <item>@string/iguanodon</item>
+    <item>@string/liopleurodon</item>
     <item>@string/microraptor</item>
     <item>@string/mosasaurus</item>
     <item>@string/pachycephalosaurus</item>
