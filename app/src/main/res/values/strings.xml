@@ -25,21 +25,22 @@
     <string name="title_section14">Gigantosaurus</string>
     <string name="title_section15">Guanlong</string>
     <string name="title_section16">Iguanodon</string>
-    <string name="title_section17">Liopleurodon</string>
-    <string name="title_section18">Mircoraptor</string>
-    <string name="title_section19">Mosasaurus</string>
-    <string name="title_section20">Pachycephalosaurus</string>
-    <string name="title_section21">Pteranodon</string>
-    <string name="title_section22">Quetzalcoatlus</string>
-    <string name="title_section23">Spinosaurus</string>
-    <string name="title_section24">Stegosaurus</string>
-    <string name="title_section25">Struthiomimus</string>
-    <string name="title_section26">Styracosaurus</string>
-    <string name="title_section27">Therizonosaurus</string>
-    <string name="title_section28">Tyrannosaurus Rex</string>
-    <string name="title_section29">Triceratops</string>
-    <string name="title_section30">Utah Raptor</string>
-    <string name="title_section31">Velociraptor</string>
+    <string name="title_section17">Kronosaurus</string>
+    <string name="title_section18">Liopleurodon</string>
+    <string name="title_section19">Mircoraptor</string>
+    <string name="title_section20">Mosasaurus</string>
+    <string name="title_section21">Pachycephalosaurus</string>
+    <string name="title_section22">Pteranodon</string>
+    <string name="title_section23">Quetzalcoatlus</string>
+    <string name="title_section24">Spinosaurus</string>
+    <string name="title_section25">Stegosaurus</string>
+    <string name="title_section26">Struthiomimus</string>
+    <string name="title_section27">Styracosaurus</string>
+    <string name="title_section28">Therizonosaurus</string>
+    <string name="title_section29">Tyrannosaurus Rex</string>
+    <string name="title_section30">Triceratops</string>
+    <string name="title_section31">Utah Raptor</string>
+    <string name="title_section32">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -64,6 +65,7 @@
     <string name="gigantosaurus">Gigantosaurus</string>
     <string name="guanlong">Guanlong</string>
     <string name="iguanodon">Iguanodon</string>
+    <string name="kronosaurus">Kronosaurus</string>
     <string name="liopleurodon">Liopleurodon</string>
     <string name="microraptor">Microraptor</string>
     <string name="mosasaurus">Mosasaurus</string>
@@ -101,6 +103,7 @@
     <item>@string/gigantosaurus</item>
     <item>@string/guanlong</item>
     <item>@string/iguanodon</item>
+    <item>@string/kronosaurus</item>
     <item>@string/liopleurodon</item>
     <item>@string/microraptor</item>
     <item>@string/mosasaurus</item>
