@@ -95,6 +95,15 @@ tools:context=".history"
                 android:paddingBottom="15dp"
                 android:text="Allosaurus was probably the most common dinosaur of the late Jurassic. It had two ridges on its head one above each eye."
                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/atext7"
+                android:layout_below="@+id/atext6"
+                android:textSize="15sp"
+                android:paddingBottom="15dp"
+                android:text="Allosaurus was discovered in 1877 by Othniel Charles Marsh"
+                />
         </RelativeLayout>
     </ScrollView>
 

@@ -90,6 +90,15 @@ tools:context=".history" android:background="#F87A17">
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
                 android:text="Crylophosaurus was the second dinosaur discovered in Antartica."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dtext7"
+                android:layout_below="@+id/dtext6"
+                android:textSize="15sp"
+                android:paddingBottom="15dp"
+                android:text="Crylophosaurus was discovered between 1990 and 1991 by William R. Hammer."/>
+
         </RelativeLayout>
     </ScrollView>
 

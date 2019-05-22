@@ -62,7 +62,7 @@
                     android:layout_below="@+id/dtext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Cretaceous Period"/>
+                    android:text="Lived During: Cretaceous Period about 115 to 108 million years ago."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -79,6 +79,23 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Size: 11 feet long"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/dtext6"
+                    android:layout_below="@+id/dtext5"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Deinonychus was first discovered in 1931 by Barnum Brown, near the town of Billings, Montana."/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/dtext7"
+                    android:layout_below="@+id/dtext6"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Remains of Tenotosaurus teeth have been found with Deinonychus. This implies that they were either hunted by or scavenged by Deinonychus."/>
+
             </RelativeLayout>
         </ScrollView>
 

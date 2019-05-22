@@ -62,7 +62,7 @@
                     android:layout_below="@+id/dtext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Cretaceous Period"/>
+                    android:text="Lived During: Late Cretaceous Period, about 70 million years ago."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -79,6 +79,15 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Size: 30 feet long"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/dtext6"
+                    android:layout_below="@+id/dtext5"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="At one site, there was a discovery of 26 different albertosaurus. This provides evidence that these dinosaurs may have stayed in packs."/>
+
             </RelativeLayout>
         </ScrollView>
 

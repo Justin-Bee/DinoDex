@@ -91,6 +91,15 @@ tools:context=".history"  android:background="#F87A17">
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
                 android:text="Dimetrodon was not actually a dinosaur.  It lived before the age of the dinosaurs. It had two different types of teeth."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dtext7"
+                android:layout_below="@+id/dtext6"
+                android:textSize="15sp"
+                android:paddingBottom="15dp"
+                android:text="Discovered in the 1870s by Edward Drinker Cope."
+                />
         </RelativeLayout>
     </ScrollView>
 

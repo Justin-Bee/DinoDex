@@ -65,7 +65,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Early Jurassic Period"
+                    android:text="Lived During: Early Jurassic Period around 193 million years ago."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -83,6 +83,15 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Size: 23 feet long."
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/atext6"
+                    android:layout_below="@+id/atext5"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Dilophosaurus was discovered in 1942 by Charles L. Camp in northern Arizona."
                     />
 
             </RelativeLayout>

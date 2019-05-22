@@ -90,6 +90,15 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Baryonyx was known to eat fish due to fish scales being found near its stomach region."/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/dtext7"
+                    android:layout_below="@+id/dtext6"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Baryonyx was discovered in 1986 by Willam J. Walker in England."/>
+
             </RelativeLayout>
         </ScrollView>
 

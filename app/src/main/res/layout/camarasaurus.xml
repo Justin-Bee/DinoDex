@@ -49,7 +49,7 @@
                     android:layout_below="@+id/gallimimus"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Camarasaurus means chambered lizard."/>
+                    android:text="Camarasaurus means chambered lizard.  It got this name by the discovery of the hollow chambers in its vertebrae."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -84,6 +84,14 @@
                     android:paddingBottom="15dp"
                     android:text="Size: Between 50 and 75 feet long. Weighed about 50 tons."
                     />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/atext6"
+                    android:layout_below="@+id/atext5"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Camarasaurus was first discovered in 1877 by Oramel W. Lucas in Colorado, USA."/>
 
             </RelativeLayout>
         </ScrollView>

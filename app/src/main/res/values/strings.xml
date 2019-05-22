@@ -38,11 +38,12 @@
     <string name="title_section27">Stegosaurus</string>
     <string name="title_section28">Struthiomimus</string>
     <string name="title_section29">Styracosaurus</string>
-    <string name="title_section30">Therizonosaurus</string>
-    <string name="title_section31">Tyrannosaurus Rex</string>
-    <string name="title_section32">Triceratops</string>
-    <string name="title_section33">Utah Raptor</string>
-    <string name="title_section34">Velociraptor</string>
+    <string name="title_section30">Tenontosaurus</string>
+    <string name="title_section31">Therizonosaurus</string>
+    <string name="title_section32">Tyrannosaurus Rex</string>
+    <string name="title_section33">Triceratops</string>
+    <string name="title_section34">Utah Raptor</string>
+    <string name="title_section35">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -80,6 +81,7 @@
     <string name="stegosaurus">Stegosaurus</string>
     <string name="strutiomimus">Struthiomimus</string>
     <string name="styracosaurus">Styracosaurus</string>
+    <string name="tenontosaurus">Tenontosaurus</string>
     <string name="therizonosaurus">Therizonosaurus</string>
     <string name="trex">T Rex</string>
     <string name="triceratops">Triceratops</string>
@@ -120,6 +122,7 @@
     <item>@string/stegosaurus</item>
     <item>@string/strutiomimus</item>
     <item>@string/styracosaurus</item>
+    <item>@string/tenontosaurus</item>
     <item>@string/therizonosaurus</item>
     <item>@string/trex</item>
     <item>@string/triceratops</item>
