@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# About
+## About
 This is the source code for the android app dinodex. Hosted on the Google Play Store.
 
 ## Copyright and License
