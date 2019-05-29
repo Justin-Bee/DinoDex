@@ -5,3 +5,9 @@ android:
     - build-tools-26.0.2
     - android-26
     - extra
+sudo: required
+install: true
+before_script:
+ - chmod +x gradlew
+ script:
+- ./gradlew assembleDebug --stacktrace
