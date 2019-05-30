@@ -1,11 +1,16 @@
 # DinoDex
 
 
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://travis-ci.com/Justin-Bee/DinoDex.svg?branch=master)](https://travis-ci.com/Justin-Bee/DinoDex)
 
+
 ## About
 This is the source code for the android app dinodex. Hosted on the Google Play Store.
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+      alt="Get it on Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=com.jbeeappz.dinodex.dinodex&hl=en_US)
 
 ## Copyright and License
 
