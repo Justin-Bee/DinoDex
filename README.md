@@ -7,10 +7,10 @@
 
 
 ## About
-This is the source code for the android app dinodex. Hosted on the Google Play Store.
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
       alt="Get it on Google Play"
       height="80">](https://play.google.com/store/apps/details?id=com.jbeeappz.dinodex.dinodex&hl=en_US)
+      This is the source code for the android app dinodex. Hosted on the Google Play Store.
 
 ## Copyright and License
 
