@@ -5,32 +5,32 @@
     android:background="@color/colorAccent">
 
 
-    <RelativeLayout
-        android:id="@+id/nav_header_container"
-        android:layout_width="match_parent"
-        android:layout_height="140dp"
-        android:layout_alignParentTop="true"
-        android:background="@color/colorPrimary">
+  <RelativeLayout
+      android:id="@+id/nav_header_container"
+      android:layout_width="match_parent"
+      android:layout_height="140dp"
+      android:layout_alignParentTop="true"
+      android:background="@color/colorPrimary">
 
-        <ImageView
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:src="@drawable/ic_launcher"
-            android:scaleType="fitCenter"
-            android:layout_centerInParent="true" />
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/ic_launcher"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true" />
 
-    </RelativeLayout>
+  </RelativeLayout>
 
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/drawerList"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/nav_header_container"
-        android:layout_alignParentStart="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp"
-        android:background="@color/colorAccent" />
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/drawerList"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/nav_header_container"
+      android:layout_alignParentStart="true"
+      android:layout_marginStart="0dp"
+      android:layout_marginTop="0dp"
+      android:background="@color/colorAccent" />
 
 
 </RelativeLayout>

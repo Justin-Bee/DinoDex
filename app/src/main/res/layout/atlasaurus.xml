@@ -36,7 +36,7 @@
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/Atlasaurus"
+                    android:background="@drawable/atlasaurus"
                     android:id="@+id/gallimimus"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"

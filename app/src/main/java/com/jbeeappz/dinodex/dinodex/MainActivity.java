@@ -108,6 +108,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
             case 5:
                 fragment = new atlasaurus();
                 title = getString(R.string.atlasaurus);
+                break;
             case 6:
                 fragment= new baryonyx();
                 title = getString(R.string.baryonyx);
