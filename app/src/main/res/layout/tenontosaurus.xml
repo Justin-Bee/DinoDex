@@ -91,7 +91,7 @@
                     android:layout_below="@+id/atext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="tenontosaurus was first discovered in 1903 by an American Museum of Natural History expedition in Colorado."/>
+                    android:text="Tenontosaurus was first discovered in 1903 by an American Museum of Natural History expedition in Colorado."/>
 
             </RelativeLayout>
         </ScrollView>

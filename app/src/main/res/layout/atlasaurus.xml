@@ -50,7 +50,7 @@
                     android:layout_below="@+id/gallimimus"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Tenontosaurus means sinew lizard."/>
+                    android:text="Atlasaurus was named for the location where it was discovered. Atlas Mountains."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -66,7 +66,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Middle Cretaceous Period around 115 to 108 million years ago."
+                    android:text="Lived During: Middle Jurassic"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -75,7 +75,7 @@
                     android:layout_below="@+id/atext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in North America"/>
+                    android:text="Found in Morocco."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -83,7 +83,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: Between 12 and 26 feet long. Its height was about 10 feet."
+                    android:text="Size: 49 feet long."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -92,7 +92,7 @@
                     android:layout_below="@+id/atext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="tenontosaurus was first discovered in 1903 by an American Museum of Natural History expedition in Colorado."/>
+                    android:text="Atlasaurus was first discovered in 1999 by Monbaron, Russel and Taquet."/>
 
             </RelativeLayout>
         </ScrollView>
