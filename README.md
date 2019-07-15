@@ -12,7 +12,7 @@
       height="80">](https://play.google.com/store/apps/details?id=com.jbeeappz.dinodex.dinodex&hl=en_US)
       
 This is the source code for the android app dinodex. Hosted on the Google Play Store.
-
+Android 28 ask supported.
 ## Copyright and License
 
 Copyright 2019 Justin Bee Code released under the [Apache 2.0](https://github.com/Justin-Bee/DinoDex/blob/master/LICENSE) license.
