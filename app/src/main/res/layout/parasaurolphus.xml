@@ -45,7 +45,7 @@
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Albertosaurus means Alberta lizard"
+                    android:text="Parasaurolophus means near crested lizard"
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -54,7 +54,7 @@
                     android:layout_below="@+id/dtext1"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Diet: Carnivore"/>
+                    android:text="Diet: Herbivore"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -62,7 +62,7 @@
                     android:layout_below="@+id/dtext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Cretaceous Period, about 70 million years ago."/>
+                    android:text="Lived During: Late Cretaceous Period, about 76 million years ago."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
                     android:layout_below="@+id/dtext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in North America primarily Alberta, Canada"/>
+                    android:text="Found in North America primarily Canada, New Mexico and Utah"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -86,7 +86,7 @@
                     android:layout_below="@+id/dtext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="At one site, there was a discovery of 26 different albertosaurus. This provides evidence that these dinosaurs may have stayed in packs."/>
+                    android:text="It was discovered in 1920 by the University of Toronto near Sand Creek in Alberta, Canada."/>
 
             </RelativeLayout>
         </ScrollView>
