@@ -116,7 +116,14 @@ tools:context=".history" android:background="#F87A17">
                 android:layout_below="@+id/htxt8"
                 android:paddingBottom="15dp"
                 android:text="Scientists believe that an asteroid impact may have caused the extinction of the dinosaurs.  Scientists date an impact crater near the Yucatan Peninsula around the same time as the extinction of the dinosaurs. This crater is named Chixulub Crater."/>
-
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/chixulub"
+                android:id="@+id/asteroid"
+                android:layout_below="@+id/htxt9"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
 
 
         </RelativeLayout>
