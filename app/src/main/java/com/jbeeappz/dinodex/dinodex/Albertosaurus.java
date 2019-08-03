@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class albertosaurus extends Fragment {
+public class Albertosaurus extends Fragment {
 
-    public albertosaurus() {
+    public Albertosaurus() {
         // Required empty public constructor
     }
 

@@ -10,7 +10,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements FragmentDrawer.FragmentDrawerListener {
 
@@ -90,7 +89,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.history);
                 break;
             case 1:
-                fragment = new albertosaurus();
+                fragment = new Albertosaurus();
                 title = getString(R.string.albertosaurus);
                 break;
             case 2:
