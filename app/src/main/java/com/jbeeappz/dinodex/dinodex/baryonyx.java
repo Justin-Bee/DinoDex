@@ -12,33 +12,33 @@ import android.view.ViewGroup;
 
 public class baryonyx extends Fragment {
 
-    public baryonyx() {
-        // Required empty public constructor
-    }
+  public baryonyx() {
+    // Required empty public constructor
+  }
 
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+  @Override
+  public void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
 
-    }
+  }
 
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.baryonyx, container, false);
+  @Override
+  public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                           Bundle savedInstanceState) {
+    View rootView = inflater.inflate(R.layout.baryonyx, container, false);
 
 
-        // Inflate the layout for this fragment
-        return rootView;
-    }
+    // Inflate the layout for this fragment
+    return rootView;
+  }
 
-    @Override
-    public void onAttach(Activity activity) {
-        super.onAttach(activity);
-    }
+  @Override
+  public void onAttach(Activity activity) {
+    super.onAttach(activity);
+  }
 
-    @Override
-    public void onDetach() {
-        super.onDetach();
-    }
+  @Override
+  public void onDetach() {
+    super.onDetach();
+  }
 }
