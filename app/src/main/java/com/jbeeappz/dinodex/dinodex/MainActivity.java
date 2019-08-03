@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.atlasaurus);
                 break;
             case 7:
-                fragment= new baryonyx();
+                fragment= new Baryonyx();
                 title = getString(R.string.baryonyx);
                 break;
             case 8:

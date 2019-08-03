@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class baryonyx extends Fragment {
+public class Baryonyx extends Fragment {
 
-  public baryonyx() {
+  public Baryonyx() {
     // Required empty public constructor
   }
 
