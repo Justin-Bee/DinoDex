@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class alioramus extends Fragment {
+public class Alioramus extends Fragment {
 
-    public alioramus() {
+    public Alioramus() {
         // Required empty public constructor
     }
 
