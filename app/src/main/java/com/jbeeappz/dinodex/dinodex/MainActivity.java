@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.baryonyx);
                 break;
             case 8:
-                fragment= new brach();
+                fragment= new Brach();
                 title = getString(R.string.brach);
                 break;
             case 9:

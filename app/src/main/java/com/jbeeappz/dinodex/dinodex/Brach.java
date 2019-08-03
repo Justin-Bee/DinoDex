@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class brach extends Fragment {
+public class Brach extends Fragment {
 
-    public brach() {
+    public Brach() {
         // Required empty public constructor
     }
 
