@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class allosaurus extends Fragment {
+public class Allosaurus extends Fragment {
 
-    public allosaurus() {
+    public Allosaurus() {
         // Required empty public constructor
     }
 

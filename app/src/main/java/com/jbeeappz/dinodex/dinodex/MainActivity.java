@@ -97,7 +97,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.alioramus);
                 break;
             case 3:
-                fragment = new allosaurus();
+                fragment = new Allosaurus();
                 title = getString(R.string.allosaurus);
                 break;
             case 4:
