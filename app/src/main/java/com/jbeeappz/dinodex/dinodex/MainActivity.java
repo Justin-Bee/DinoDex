@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
     public void onDrawerItemSelected(View view, int position) {
         displayView(position);
     }
+//Todo refactor class names so they start with capitals
 
     private void displayView(int position) {
         Fragment fragment = null;
