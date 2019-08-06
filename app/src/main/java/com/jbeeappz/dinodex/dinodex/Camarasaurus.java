@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class camarasaurus extends Fragment {
+public class Camarasaurus extends Fragment {
 
-    public camarasaurus() {
+    public Camarasaurus() {
         // Required empty public constructor
     }
 
