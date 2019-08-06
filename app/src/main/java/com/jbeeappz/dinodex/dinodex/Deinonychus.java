@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class deinonychus extends Fragment {
+public class Deinonychus extends Fragment {
 
-    public deinonychus() {
+    public Deinonychus() {
         // Required empty public constructor
     }
 
