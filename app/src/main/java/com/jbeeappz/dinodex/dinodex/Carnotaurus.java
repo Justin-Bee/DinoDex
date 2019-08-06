@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class carnotaurus extends Fragment {
+public class Carnotaurus extends Fragment {
 
-    public carnotaurus() {
+    public Carnotaurus() {
         // Required empty public constructor
     }
 
