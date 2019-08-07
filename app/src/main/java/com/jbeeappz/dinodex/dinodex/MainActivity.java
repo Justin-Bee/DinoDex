@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.dilophosaurus);
                 break;
             case 14:
-                fragment = new dimetrodon();
+                fragment = new Dimetrodon();
                 title = getString(R.string.dimetrodon);
                 break;
             case 15:
