@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class dimetrodon extends Fragment {
+public class Dimetrodon extends Fragment {
 
-    public dimetrodon() {
+    public Dimetrodon() {
         // Required empty public constructor
     }
 
