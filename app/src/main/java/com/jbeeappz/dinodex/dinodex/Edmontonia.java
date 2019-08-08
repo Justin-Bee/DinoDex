@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class edmontonia extends Fragment {
+public class Edmontonia extends Fragment {
 
-    public edmontonia() {
+    public Edmontonia() {
         // Required empty public constructor
     }
 
