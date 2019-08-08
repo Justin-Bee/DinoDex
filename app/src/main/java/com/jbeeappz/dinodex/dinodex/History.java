@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class history extends Fragment {
+public class History extends Fragment {
 
-    public history() {
+    public History() {
         // Required empty public constructor
     }
 
