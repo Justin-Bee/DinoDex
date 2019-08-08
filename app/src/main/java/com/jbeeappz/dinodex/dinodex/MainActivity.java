@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         String title = getString(R.string.app_name);
         switch (position) {
             case 0:
-                fragment = new history();
+                fragment = new History();
                 title = getString(R.string.history);
                 break;
             case 1:
@@ -146,27 +146,27 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.dimetrodon);
                 break;
             case 15:
-                fragment = new diplodocus();
+                fragment = new Diplodocus();
                 title = getString(R.string.diplodocus);
                 break;
             case 16:
-                fragment = new edmontonia();
+                fragment = new Edmontonia();
                 title = getString(R.string.edmontonia);
                 break;
             case 17:
-                fragment = new elasmosaurus();
+                fragment = new Elasmosaurus();
                 title = getString(R.string.elasmosaurus);
                 break;
             case 18:
-                fragment = new gallimimus();
+                fragment = new Gallimimus();
                 title = getString(R.string.gallimimus);
                 break;
             case 19:
-                fragment = new gigantosaurus();
+                fragment = new Gigantosaurus();
                 title = getString(R.string.gigantosaurus);
                 break;
             case 20:
-                fragment = new guanlong();
+                fragment = new Guanlong();
                 title = getString(R.string.guanlong);
                 break;
             case 21:
