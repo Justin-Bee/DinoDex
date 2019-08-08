@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class guanlong extends Fragment {
+public class Guanlong extends Fragment {
 
-    public guanlong() {
+    public Guanlong() {
         // Required empty public constructor
     }
 
