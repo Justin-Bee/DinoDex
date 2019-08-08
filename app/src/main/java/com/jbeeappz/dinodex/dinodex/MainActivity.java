@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         if(id == R.id.action_search){
             Fragment fragment = null;
             String title = getString(R.string.app_name);
-            fragment = new history();
+            fragment = new History();
             title = getString(R.string.history);
             FragmentManager fragmentManager = getSupportFragmentManager();
             FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
