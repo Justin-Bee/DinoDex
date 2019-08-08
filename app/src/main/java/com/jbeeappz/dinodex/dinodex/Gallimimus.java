@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class gallimimus extends Fragment {
+public class Gallimimus extends Fragment {
 
-    public gallimimus() {
+    public Gallimimus() {
         // Required empty public constructor
     }
 
