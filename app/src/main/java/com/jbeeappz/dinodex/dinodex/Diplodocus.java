@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class diplodocus extends Fragment {
+public class Diplodocus extends Fragment {
 
-    public diplodocus() {
+    public Diplodocus() {
         // Required empty public constructor
     }
 
