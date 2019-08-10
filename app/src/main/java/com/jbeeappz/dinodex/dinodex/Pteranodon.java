@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class pteranodon extends Fragment {
+public class Pteranodon extends Fragment {
 
-    public pteranodon() {
+    public Pteranodon() {
         // Required empty public constructor
     }
 

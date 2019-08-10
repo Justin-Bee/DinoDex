@@ -198,7 +198,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.parasaurolophus);
                 break;
             case 28:
-                fragment = new pteranodon();
+                fragment = new Pteranodon();
                 title = getString(R.string.pteranodon);
                 break;
             case 29:
