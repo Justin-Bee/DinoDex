@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 
 
 
-public class liopleurodon extends Fragment {
+public class Liopleurodon extends Fragment {
 
-    public liopleurodon() {
+    public Liopleurodon() {
         // Required empty public constructor
     }
 
