@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class triceratops extends Fragment {
+public class Triceratops extends Fragment {
 
-    public triceratops() {
+    public Triceratops() {
         // Required empty public constructor
     }
 

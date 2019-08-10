@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class trex extends Fragment {
+public class Trex extends Fragment {
 
-    public trex() {
+    public Trex() {
         // Required empty public constructor
     }
 

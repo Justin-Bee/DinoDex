@@ -7,11 +7,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * Author- Justin Bee
+ */
 
+public class Quetzalcoatlus extends Fragment {
 
-public class tenontosaurus extends Fragment {
-
-    public tenontosaurus() {
+    public Quetzalcoatlus() {
         // Required empty public constructor
     }
 
@@ -24,7 +26,7 @@ public class tenontosaurus extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.tenontosaurus, container, false);
+        View rootView = inflater.inflate(R.layout.quetzalcoatlus, container, false);
 
 
         // Inflate the layout for this fragment
@@ -40,6 +42,4 @@ public class tenontosaurus extends Fragment {
     public void onDetach() {
         super.onDetach();
     }
-
-
 }

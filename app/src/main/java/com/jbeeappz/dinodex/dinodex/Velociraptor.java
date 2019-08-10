@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class velociraptor extends Fragment {
+public class Velociraptor extends Fragment {
 
-  public velociraptor() {
+  public Velociraptor() {
     // Required empty public constructor
   }
 

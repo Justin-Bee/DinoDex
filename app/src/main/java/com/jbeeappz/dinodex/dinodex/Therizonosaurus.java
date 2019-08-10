@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class therizonosaurus extends Fragment {
+public class Therizonosaurus extends Fragment {
 
-    public therizonosaurus() {
+    public Therizonosaurus() {
         // Required empty public constructor
     }
 

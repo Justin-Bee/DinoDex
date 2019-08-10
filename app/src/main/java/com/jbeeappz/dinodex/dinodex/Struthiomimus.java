@@ -7,12 +7,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * Author- Justin Bee
+ */
 
+public class Struthiomimus extends Fragment {
 
-
-public class spinosaurus extends Fragment {
-
-    public spinosaurus() {
+    public Struthiomimus() {
         // Required empty public constructor
     }
 
@@ -25,7 +26,7 @@ public class spinosaurus extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.spinosaurus, container, false);
+        View rootView = inflater.inflate(R.layout.struthiomimus, container, false);
 
 
         // Inflate the layout for this fragment

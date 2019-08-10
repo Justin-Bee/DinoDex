@@ -9,10 +9,9 @@ import android.view.ViewGroup;
 
 
 
+public class Tenontosaurus extends Fragment {
 
-public class styracosaurus extends Fragment {
-
-    public styracosaurus() {
+    public Tenontosaurus() {
         // Required empty public constructor
     }
 
@@ -25,7 +24,7 @@ public class styracosaurus extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.styracosaurus, container, false);
+        View rootView = inflater.inflate(R.layout.tenontosaurus, container, false);
 
 
         // Inflate the layout for this fragment
@@ -41,4 +40,6 @@ public class styracosaurus extends Fragment {
     public void onDetach() {
         super.onDetach();
     }
+
+
 }
