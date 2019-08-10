@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 
 
 
-public class iguanodon extends Fragment {
+public class Iguanodon extends Fragment {
 
-    public iguanodon() {
+    public Iguanodon() {
         // Required empty public constructor
     }
 

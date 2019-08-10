@@ -170,7 +170,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.guanlong);
                 break;
             case 21:
-                fragment = new iguanodon();
+                fragment = new Iguanodon();
                 title = getString(R.string.iguanodon);
                 break;
             case 22:
