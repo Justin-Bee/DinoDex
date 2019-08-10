@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class pachycephalosaurus extends Fragment {
+public class Pachycephalosaurus extends Fragment {
 
-    public pachycephalosaurus() {
+    public Pachycephalosaurus() {
         // Required empty public constructor
     }
 
