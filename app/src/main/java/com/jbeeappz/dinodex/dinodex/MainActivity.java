@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.liopleurodon);
                 break;
             case 24:
-                fragment = new microraptor();
+                fragment = new Microraptor();
                 title = getString(R.string.microraptor);
                 break;
             case 25:

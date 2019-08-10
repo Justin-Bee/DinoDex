@@ -11,9 +11,9 @@ import android.view.ViewGroup;
  * Author- Justin Bee
  */
 
-public class microraptor extends Fragment {
+public class Microraptor extends Fragment {
 
-    public microraptor() {
+    public Microraptor() {
         // Required empty public constructor
     }
 
