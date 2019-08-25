@@ -35,20 +35,21 @@
     <string name="title_section24">Liopleurodon</string>
     <string name="title_section25">Mircoraptor</string>
     <string name="title_section26">Mosasaurus</string>
-    <string name="title_section27">Pachycephalosaurus</string>
-    <string name="title_section28">Parasaurolophus</string>
-    <string name="title_section29">Pteranodon</string>
-    <string name="title_section30">Quetzalcoatlus</string>
-    <string name="title_section31">Spinosaurus</string>
-    <string name="title_section32">Stegosaurus</string>
-    <string name="title_section33">Struthiomimus</string>
-    <string name="title_section34">Styracosaurus</string>
-    <string name="title_section35">Tenontosaurus</string>
-    <string name="title_section36">Therizonosaurus</string>
-    <string name="title_section37">Tyrannosaurus Rex</string>
-    <string name="title_section38">Triceratops</string>
-    <string name="title_section39">Utah Raptor</string>
-    <string name="title_section40">Velociraptor</string>
+    <string name="title_section27">Muttaburrasaurus</string>
+    <string name="title_section28">Pachycephalosaurus</string>
+    <string name="title_section29">Parasaurolophus</string>
+    <string name="title_section30">Pteranodon</string>
+    <string name="title_section31">Quetzalcoatlus</string>
+    <string name="title_section32">Spinosaurus</string>
+    <string name="title_section33">Stegosaurus</string>
+    <string name="title_section34">Struthiomimus</string>
+    <string name="title_section35">Styracosaurus</string>
+    <string name="title_section36">Tenontosaurus</string>
+    <string name="title_section37">Therizonosaurus</string>
+    <string name="title_section38">Tyrannosaurus Rex</string>
+    <string name="title_section39">Triceratops</string>
+    <string name="title_section40">Utah Raptor</string>
+    <string name="title_section41">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -82,6 +83,7 @@
     <string name="liopleurodon">Liopleurodon</string>
     <string name="microraptor">Microraptor</string>
     <string name="mosasaurus">Mosasaurus</string>
+    <string name="muttaburrasaurus">Muttaburrasaurus</string>
     <string name="pachycephalosaurus">Pachycephalosaurus</string>
     <string name="parasaurolophus">Parasaurolophus</string>
     <string name="pteranodon">Pteranodon</string>
@@ -127,6 +129,7 @@
     <item>@string/liopleurodon</item>
     <item>@string/microraptor</item>
     <item>@string/mosasaurus</item>
+    <item>@string/muttaburrasaurus</item>
     <item>@string/pachycephalosaurus</item>
     <item>@string/parasaurolophus</item>
     <item>@string/pteranodon</item>
