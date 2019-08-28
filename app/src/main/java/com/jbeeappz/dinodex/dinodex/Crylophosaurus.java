@@ -22,7 +22,6 @@ import android.view.ViewGroup;
  *  limitations under the License.
 **/
 
-
 public class Crylophosaurus extends Fragment {
 
   public Crylophosaurus() {
