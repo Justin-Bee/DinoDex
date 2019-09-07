@@ -129,142 +129,146 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.atlasaurus);
                 break;
             case 7:
+                fragment = new Barapasaurus();
+                title = getString(R.string.barapasaurus);
+                break;
+            case 8:
                 fragment= new Baryonyx();
                 title = getString(R.string.baryonyx);
                 break;
-            case 8:
+            case 9:
                 fragment= new Brach();
                 title = getString(R.string.brach);
                 break;
-            case 9:
+            case 10:
                 fragment= new Camarasaurus();
                 title = getString(R.string.camarasaurus);
                 break;
-            case 10:
+            case 11:
                 fragment= new Carnotaurus();
                 title = getString(R.string.carnotaurus);
                 break;
-            case 11:
+            case 12:
                 fragment = new Crylophosaurus();
                 title = getString(R.string.crylophosaurus);
                 break;
-            case 12:
+            case 13:
                 fragment = new Deinonychus();
                 title = getString(R.string.deinonychus);
                 break;
-            case 13:
+            case 14:
                 fragment = new Dilophosaurus();
                 title = getString(R.string.dilophosaurus);
                 break;
-            case 14:
+            case 15:
                 fragment = new Dimetrodon();
                 title = getString(R.string.dimetrodon);
                 break;
-            case 15:
+            case 16:
                 fragment = new Diplodocus();
                 title = getString(R.string.diplodocus);
                 break;
-            case 16:
+            case 17:
                 fragment = new Edmontonia();
                 title = getString(R.string.edmontonia);
                 break;
-            case 17:
+            case 18:
                 fragment = new Elasmosaurus();
                 title = getString(R.string.elasmosaurus);
                 break;
-            case 18:
+            case 19:
                 fragment = new Gallimimus();
                 title = getString(R.string.gallimimus);
                 break;
-            case 19:
+            case 20:
                 fragment = new Gigantosaurus();
                 title = getString(R.string.gigantosaurus);
                 break;
-            case 20:
+            case 21:
                 fragment = new Guanlong();
                 title = getString(R.string.guanlong);
                 break;
-            case 21:
+            case 22:
                 fragment = new Iguanodon();
                 title = getString(R.string.iguanodon);
                 break;
-            case 22:
+            case 23:
                 fragment = new Kronosaurus();
                 title = getString(R.string.kronosaurus);
                 break;
-            case 23:
+            case 24:
                 fragment = new Liopleurodon();
                 title = getString(R.string.liopleurodon);
                 break;
-            case 24:
+            case 25:
                 fragment = new Microraptor();
                 title = getString(R.string.microraptor);
                 break;
-            case 25:
+            case 26:
                 fragment = new Mosasaurus();
                 title = getString(R.string.mosasaurus);
                 break;
-            case 26:
+            case 27:
                 fragment = new Muttaburrasaurus();
                 title =  getString(R.string.muttaburrasaurus);
                 break;
-            case 27:
+            case 28:
                 fragment = new Neovenator();
                 title = getString(R.string.neovenator);
                 break;
-            case 28:
+            case 29:
                 fragment = new Pachycephalosaurus();
                 title = getString(R.string.pachycephalosaurus);
                 break;
-            case 29:
+            case 30:
                 fragment = new Parasaurolophus();
                 title = getString(R.string.parasaurolophus);
                 break;
-            case 30:
+            case 31:
                 fragment = new Pteranodon();
                 title = getString(R.string.pteranodon);
                 break;
-            case 31:
+            case 32:
                 fragment = new Quetzalcoatlus();
                 title = getString(R.string.quetzalcoatlus);
                 break;
-            case 32:
+            case 33:
                 fragment = new Spinosaurus();
                 title = getString(R.string.spinosaurus);
                 break;
-            case 33:
+            case 34:
                 fragment = new Stegosaurus();
                 title = getString(R.string.stegosaurus);
                 break;
-            case 34:
+            case 35:
                 fragment = new Struthiomimus();
                 title = getString(R.string.strutiomimus);
                 break;
-            case 35:
+            case 36:
                 fragment = new Styracosaurus();
                 title = getString(R.string.styracosaurus);
                 break;
-            case 36:
+            case 37:
                 fragment = new Tenontosaurus();
                 title = getString (R.string.tenontosaurus);
                 break;
-            case 37:
+            case 38:
                 fragment = new Therizonosaurus();
                 title = getString(R.string.therizonosaurus);
                 break;
-            case 38:
+            case 39:
                 fragment = new Trex();
                 title = getString(R.string.trex);
                 break;
-            case 39:
+            case 40:
                 fragment = new Triceratops();
                 title = getString(R.string.triceratops);
                 break;
-            case 40:
+            case 41:
                 fragment = new Utahraptor();
                 title = getString(R.string.utahraptor);
                 break;
-            case 41:
+            case 42:
                 fragment = new Velociraptor();
                 title = getString(R.string.velociraptor);
                 break;
