@@ -1,7 +1,7 @@
 # DinoDex
 
 
-
+ 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![CircleCI](https://circleci.com/gh/Justin-Bee/DinoDex.svg?style=svg)](https://circleci.com/gh/Justin-Bee/DinoDex)
 [![Author](https://img.shields.io/badge/Author-Justin%20Bee-blue.svg)](mailto:jbee.appz@gmail.com)
