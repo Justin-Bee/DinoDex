@@ -16,3 +16,4 @@ Android 28 apk supported. Uses Navigation drawer with fragments.
 ## Copyright and License
 
 Copyright 2019 Justin Bee Code released under the [Apache 2.0](https://github.com/Justin-Bee/DinoDex/blob/master/LICENSE) license.
+
