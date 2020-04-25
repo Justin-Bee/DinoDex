@@ -40,21 +40,22 @@
     <string name="title_section29">Neovenator</string>
     <string name="title_section30">Pachycephalosaurus</string>
     <string name="title_section31">Parasaurolophus</string>
-    <string name="title_section32">Protoceratops</string>
-    <string name="title_section33">Pteranodon</string>
-    <string name="title_section34">Quetzalcoatlus</string>
-    <string name="title_section35">Scutosaurus</string>
-    <string name="title_section36">Spinosaurus</string>
-    <string name="title_section37">Stegoceras</string>
-    <string name="title_section38">Stegosaurus</string>
-    <string name="title_section39">Struthiomimus</string>
-    <string name="title_section40">Styracosaurus</string>
-    <string name="title_section41">Tenontosaurus</string>
-    <string name="title_section42">Therizonosaurus</string>
-    <string name="title_section43">Tyrannosaurus Rex</string>
-    <string name="title_section44">Triceratops</string>
-    <string name="title_section45">Utah Raptor</string>
-    <string name="title_section46">Velociraptor</string>
+    <string name="title_section32">Plateosaurus</string>
+    <string name="title_section33">Protoceratops</string>
+    <string name="title_section34">Pteranodon</string>
+    <string name="title_section35">Quetzalcoatlus</string>
+    <string name="title_section36">Scutosaurus</string>
+    <string name="title_section37">Spinosaurus</string>
+    <string name="title_section38">Stegoceras</string>
+    <string name="title_section39">Stegosaurus</string>
+    <string name="title_section40">Struthiomimus</string>
+    <string name="title_section41">Styracosaurus</string>
+    <string name="title_section42">Tenontosaurus</string>
+    <string name="title_section43">Therizonosaurus</string>
+    <string name="title_section44">Tyrannosaurus Rex</string>
+    <string name="title_section45">Triceratops</string>
+    <string name="title_section46">Utah Raptor</string>
+    <string name="title_section47">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -93,6 +94,7 @@
     <string name="neovenator">Neovenator</string>
     <string name="pachycephalosaurus">Pachycephalosaurus</string>
     <string name="parasaurolophus">Parasaurolophus</string>
+    <string name="plateosaurus">Plateosaurus</string>
     <string name="protoceratops">Protoceratops</string>
     <string name="pteranodon">Pteranodon</string>
     <string name="quetzalcoatlus">Quetzalcoatlus</string>
@@ -144,6 +146,7 @@
     <item>@string/neovenator</item>
     <item>@string/pachycephalosaurus</item>
     <item>@string/parasaurolophus</item>
+    <item>@string/plateosaurus</item>
     <item>@string/protoceratops</item>
     <item>@string/pteranodon</item>
     <item>@string/quetzalcoatlus</item>
