@@ -43,17 +43,18 @@
     <string name="title_section32">Protoceratops</string>
     <string name="title_section33">Pteranodon</string>
     <string name="title_section34">Quetzalcoatlus</string>
-    <string name="title_section35">Spinosaurus</string>
-    <string name="title_section36">Stegoceras</string>
-    <string name="title_section37">Stegosaurus</string>
-    <string name="title_section38">Struthiomimus</string>
-    <string name="title_section39">Styracosaurus</string>
-    <string name="title_section40">Tenontosaurus</string>
-    <string name="title_section41">Therizonosaurus</string>
-    <string name="title_section42">Tyrannosaurus Rex</string>
-    <string name="title_section43">Triceratops</string>
-    <string name="title_section44">Utah Raptor</string>
-    <string name="title_section45">Velociraptor</string>
+    <string name="title_section35">Scutosaurus</string>
+    <string name="title_section36">Spinosaurus</string>
+    <string name="title_section37">Stegoceras</string>
+    <string name="title_section38">Stegosaurus</string>
+    <string name="title_section39">Struthiomimus</string>
+    <string name="title_section40">Styracosaurus</string>
+    <string name="title_section41">Tenontosaurus</string>
+    <string name="title_section42">Therizonosaurus</string>
+    <string name="title_section43">Tyrannosaurus Rex</string>
+    <string name="title_section44">Triceratops</string>
+    <string name="title_section45">Utah Raptor</string>
+    <string name="title_section46">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -95,6 +96,7 @@
     <string name="protoceratops">Protoceratops</string>
     <string name="pteranodon">Pteranodon</string>
     <string name="quetzalcoatlus">Quetzalcoatlus</string>
+    <string name="scutosaurus">Scutosaurus</string>
     <string name="spinosaurus">Spinosaurus</string>
     <string name="stegoceras">Stegoceras</string>
     <string name="stegosaurus">Stegosaurus</string>
@@ -145,6 +147,7 @@
     <item>@string/protoceratops</item>
     <item>@string/pteranodon</item>
     <item>@string/quetzalcoatlus</item>
+    <item>@string/scutosaurus</item>
     <item>@string/spinosaurus</item>
     <item>@string/stegoceras</item>
     <item>@string/stegosaurus</item>
