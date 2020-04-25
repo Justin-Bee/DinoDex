@@ -44,15 +44,16 @@
     <string name="title_section33">Pteranodon</string>
     <string name="title_section34">Quetzalcoatlus</string>
     <string name="title_section35">Spinosaurus</string>
-    <string name="title_section36">Stegosaurus</string>
-    <string name="title_section37">Struthiomimus</string>
-    <string name="title_section38">Styracosaurus</string>
-    <string name="title_section39">Tenontosaurus</string>
-    <string name="title_section40">Therizonosaurus</string>
-    <string name="title_section41">Tyrannosaurus Rex</string>
-    <string name="title_section42">Triceratops</string>
-    <string name="title_section43">Utah Raptor</string>
-    <string name="title_section44">Velociraptor</string>
+    <string name="title_section36">Stegoceras</string>
+    <string name="title_section37">Stegosaurus</string>
+    <string name="title_section38">Struthiomimus</string>
+    <string name="title_section39">Styracosaurus</string>
+    <string name="title_section40">Tenontosaurus</string>
+    <string name="title_section41">Therizonosaurus</string>
+    <string name="title_section42">Tyrannosaurus Rex</string>
+    <string name="title_section43">Triceratops</string>
+    <string name="title_section44">Utah Raptor</string>
+    <string name="title_section45">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -95,6 +96,7 @@
     <string name="pteranodon">Pteranodon</string>
     <string name="quetzalcoatlus">Quetzalcoatlus</string>
     <string name="spinosaurus">Spinosaurus</string>
+    <string name="stegoceras">Stegoceras</string>
     <string name="stegosaurus">Stegosaurus</string>
     <string name="strutiomimus">Struthiomimus</string>
     <string name="styracosaurus">Styracosaurus</string>
@@ -144,6 +146,7 @@
     <item>@string/pteranodon</item>
     <item>@string/quetzalcoatlus</item>
     <item>@string/spinosaurus</item>
+    <item>@string/stegoceras</item>
     <item>@string/stegosaurus</item>
     <item>@string/strutiomimus</item>
     <item>@string/styracosaurus</item>
