@@ -54,10 +54,11 @@
     <string name="title_section43">Styracosaurus</string>
     <string name="title_section44">Tenontosaurus</string>
     <string name="title_section45">Therizonosaurus</string>
-    <string name="title_section46">Tyrannosaurus Rex</string>
-    <string name="title_section47">Triceratops</string>
-    <string name="title_section48">Utah Raptor</string>
-    <string name="title_section49">Velociraptor</string>
+    <string name="title_section46">Torvosaurus</string>
+    <string name="title_section47">Tyrannosaurus Rex</string>
+    <string name="title_section48">Triceratops</string>
+    <string name="title_section49">Utah Raptor</string>
+    <string name="title_section50">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -110,6 +111,7 @@
     <string name="styracosaurus">Styracosaurus</string>
     <string name="tenontosaurus">Tenontosaurus</string>
     <string name="therizonosaurus">Therizonosaurus</string>
+    <string name="torvosaurus">Torvosaurus</string>
     <string name="trex">T Rex</string>
     <string name="triceratops">Triceratops</string>
     <string name="utahraptor">Utah Raptor</string>
@@ -164,6 +166,7 @@
     <item>@string/styracosaurus</item>
     <item>@string/tenontosaurus</item>
     <item>@string/therizonosaurus</item>
+    <item>@string/torvosaurus</item>
     <item>@string/trex</item>
     <item>@string/triceratops</item>
     <item>@string/utahraptor</item>
