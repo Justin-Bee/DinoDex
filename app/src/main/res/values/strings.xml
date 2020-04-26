@@ -47,18 +47,19 @@
     <string name="title_section36">Pteranodon</string>
     <string name="title_section37">Quetzalcoatlus</string>
     <string name="title_section38">Scutosaurus</string>
-    <string name="title_section39">Spinosaurus</string>
-    <string name="title_section40">Stegoceras</string>
-    <string name="title_section41">Stegosaurus</string>
-    <string name="title_section42">Struthiomimus</string>
-    <string name="title_section43">Styracosaurus</string>
-    <string name="title_section44">Tenontosaurus</string>
-    <string name="title_section45">Therizonosaurus</string>
-    <string name="title_section46">Torvosaurus</string>
-    <string name="title_section47">Tyrannosaurus Rex</string>
-    <string name="title_section48">Triceratops</string>
-    <string name="title_section49">Utah Raptor</string>
-    <string name="title_section50">Velociraptor</string>
+    <string name="title_section39">Skorpiovenator</string>
+    <string name="title_section40">Spinosaurus</string>
+    <string name="title_section41">Stegoceras</string>
+    <string name="title_section42">Stegosaurus</string>
+    <string name="title_section43">Struthiomimus</string>
+    <string name="title_section44">Styracosaurus</string>
+    <string name="title_section45">Tenontosaurus</string>
+    <string name="title_section46">Therizonosaurus</string>
+    <string name="title_section47">Torvosaurus</string>
+    <string name="title_section48">Tyrannosaurus Rex</string>
+    <string name="title_section49">Triceratops</string>
+    <string name="title_section50">Utah Raptor</string>
+    <string name="title_section51">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -104,6 +105,7 @@
     <string name="pteranodon">Pteranodon</string>
     <string name="quetzalcoatlus">Quetzalcoatlus</string>
     <string name="scutosaurus">Scutosaurus</string>
+    <string name="skorpiovenator">Skorpiovenator</string>
     <string name="spinosaurus">Spinosaurus</string>
     <string name="stegoceras">Stegoceras</string>
     <string name="stegosaurus">Stegosaurus</string>
@@ -159,6 +161,7 @@
     <item>@string/pteranodon</item>
     <item>@string/quetzalcoatlus</item>
     <item>@string/scutosaurus</item>
+    <item>@string/skorpiovenator</item>
     <item>@string/spinosaurus</item>
     <item>@string/stegoceras</item>
     <item>@string/stegosaurus</item>
