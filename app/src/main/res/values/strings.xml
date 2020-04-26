@@ -49,17 +49,18 @@
     <string name="title_section38">Scutosaurus</string>
     <string name="title_section39">Skorpiovenator</string>
     <string name="title_section40">Spinosaurus</string>
-    <string name="title_section41">Stegoceras</string>
-    <string name="title_section42">Stegosaurus</string>
-    <string name="title_section43">Struthiomimus</string>
-    <string name="title_section44">Styracosaurus</string>
-    <string name="title_section45">Tenontosaurus</string>
-    <string name="title_section46">Therizonosaurus</string>
-    <string name="title_section47">Torvosaurus</string>
-    <string name="title_section48">Tyrannosaurus Rex</string>
-    <string name="title_section49">Triceratops</string>
-    <string name="title_section50">Utah Raptor</string>
-    <string name="title_section51">Velociraptor</string>
+    <string name="title_section41">Spinostropheus</string>
+    <string name="title_section42">Stegoceras</string>
+    <string name="title_section43">Stegosaurus</string>
+    <string name="title_section44">Struthiomimus</string>
+    <string name="title_section45">Styracosaurus</string>
+    <string name="title_section46">Tenontosaurus</string>
+    <string name="title_section47">Therizonosaurus</string>
+    <string name="title_section48">Torvosaurus</string>
+    <string name="title_section49">Tyrannosaurus Rex</string>
+    <string name="title_section50">Triceratops</string>
+    <string name="title_section51">Utah Raptor</string>
+    <string name="title_section52">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -107,6 +108,7 @@
     <string name="scutosaurus">Scutosaurus</string>
     <string name="skorpiovenator">Skorpiovenator</string>
     <string name="spinosaurus">Spinosaurus</string>
+    <string name="spinostropheus">Spinostropheus</string>
     <string name="stegoceras">Stegoceras</string>
     <string name="stegosaurus">Stegosaurus</string>
     <string name="strutiomimus">Struthiomimus</string>
@@ -163,6 +165,7 @@
     <item>@string/scutosaurus</item>
     <item>@string/skorpiovenator</item>
     <item>@string/spinosaurus</item>
+    <item>@string/spinostropheus</item>
     <item>@string/stegoceras</item>
     <item>@string/stegosaurus</item>
     <item>@string/strutiomimus</item>

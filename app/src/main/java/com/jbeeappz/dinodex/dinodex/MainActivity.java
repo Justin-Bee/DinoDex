@@ -261,46 +261,50 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.spinosaurus);
                 break;
             case 40:
+                fragment = new Spinostropheus();
+                title = getString(R.string.spinostropheus);
+                break;
+            case 41:
                 fragment = new Stegoceras();
                 title = getString(R.string.stegoceras);
                 break;
-            case 41:
+            case 42:
                 fragment = new Stegosaurus();
                 title = getString(R.string.stegosaurus);
                 break;
-            case 42:
+            case 43:
                 fragment = new Struthiomimus();
                 title = getString(R.string.strutiomimus);
                 break;
-            case 43:
+            case 44:
                 fragment = new Styracosaurus();
                 title = getString(R.string.styracosaurus);
                 break;
-            case 44:
+            case 45:
                 fragment = new Tenontosaurus();
                 title = getString (R.string.tenontosaurus);
                 break;
-            case 45:
+            case 46:
                 fragment = new Therizonosaurus();
                 title = getString(R.string.therizonosaurus);
                 break;
-            case 46:
+            case 47:
                 fragment = new Torvosaurus();
                 title = getString(R.string.torvosaurus);
                 break;
-            case 47:
+            case 48:
                 fragment = new Trex();
                 title = getString(R.string.trex);
                 break;
-            case 48:
+            case 49:
                 fragment = new Triceratops();
                 title = getString(R.string.triceratops);
                 break;
-            case 49:
+            case 50:
                 fragment = new Utahraptor();
                 title = getString(R.string.utahraptor);
                 break;
-            case 50:
+            case 51:
                 fragment = new Velociraptor();
                 title = getString(R.string.velociraptor);
                 break;
