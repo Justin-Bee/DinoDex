@@ -25,7 +25,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:textSize="35sp"
-                    android:text="Spinostropheus"
+                    android:text="Irritator"
                     android:gravity="center"
                     android:id="@+id/textView2"
                     android:paddingBottom="15dp"
@@ -34,7 +34,7 @@
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/spinostropheus"
+                    android:background="@drawable/irritator"
                     android:id="@+id/gallimimus"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"
@@ -48,7 +48,7 @@
                     android:layout_below="@+id/gallimimus"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Spinstropheus means spine vertebrae."/>
+                    android:text="Irritator comes from the word irritation due to the fact the skull was damaged by collectors"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Middle Jurassic Period."
+                    android:text="Lived During: Early Cretaceous Period about 110 million years ago."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -73,7 +73,7 @@
                     android:layout_below="@+id/atext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in Niger."/>
+                    android:text="Found in Brazil."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 20 feet (6m) in length."
+                    android:text="Size: 20 feet (6.2m) in length."
                     />
 
 
