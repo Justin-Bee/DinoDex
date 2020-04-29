@@ -46,27 +46,28 @@
     <string name="title_section36">Murusraptor</string>
     <string name="title_section37">Muttaburrasaurus</string>
     <string name="title_section38">Neovenator</string>
-    <string name="title_section39">Pachycephalosaurus</string>
-    <string name="title_section40">Parasaurolophus</string>
-    <string name="title_section41">Plateosaurus</string>
-    <string name="title_section42">Protoceratops</string>
-    <string name="title_section43">Pteranodon</string>
-    <string name="title_section44">Quetzalcoatlus</string>
-    <string name="title_section45">Scutosaurus</string>
-    <string name="title_section46">Skorpiovenator</string>
-    <string name="title_section47">Spinosaurus</string>
-    <string name="title_section48">Spinostropheus</string>
-    <string name="title_section49">Stegoceras</string>
-    <string name="title_section50">Stegosaurus</string>
-    <string name="title_section51">Struthiomimus</string>
-    <string name="title_section52">Styracosaurus</string>
-    <string name="title_section53">Tenontosaurus</string>
-    <string name="title_section54">Therizonosaurus</string>
-    <string name="title_section55">Torvosaurus</string>
-    <string name="title_section56">Tyrannosaurus Rex</string>
-    <string name="title_section57">Triceratops</string>
-    <string name="title_section58">Utah Raptor</string>
-    <string name="title_section59">Velociraptor</string>
+    <string name="title_section39">Nomingia</string>
+    <string name="title_section40">Pachycephalosaurus</string>
+    <string name="title_section41">Parasaurolophus</string>
+    <string name="title_section42">Plateosaurus</string>
+    <string name="title_section43">Protoceratops</string>
+    <string name="title_section44">Pteranodon</string>
+    <string name="title_section45">Quetzalcoatlus</string>
+    <string name="title_section46">Scutosaurus</string>
+    <string name="title_section47">Skorpiovenator</string>
+    <string name="title_section48">Spinosaurus</string>
+    <string name="title_section49">Spinostropheus</string>
+    <string name="title_section50">Stegoceras</string>
+    <string name="title_section51">Stegosaurus</string>
+    <string name="title_section52">Struthiomimus</string>
+    <string name="title_section53">Styracosaurus</string>
+    <string name="title_section54">Tenontosaurus</string>
+    <string name="title_section55">Therizonosaurus</string>
+    <string name="title_section56">Torvosaurus</string>
+    <string name="title_section57">Tyrannosaurus Rex</string>
+    <string name="title_section58">Triceratops</string>
+    <string name="title_section59">Utah Raptor</string>
+    <string name="title_section60">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -112,6 +113,7 @@
     <string name="murusraptor">Murusraptor</string>
     <string name="muttaburrasaurus">Muttaburrasaurus</string>
     <string name="neovenator">Neovenator</string>
+    <string name="nomingia">Nomingia</string>
     <string name="pachycephalosaurus">Pachycephalosaurus</string>
     <string name="parasaurolophus">Parasaurolophus</string>
     <string name="plateosaurus">Plateosaurus</string>
@@ -176,6 +178,7 @@
     <item>@string/murusraptor</item>
     <item>@string/muttaburrasaurus</item>
     <item>@string/neovenator</item>
+    <item>@string/nomingia</item>
     <item>@string/pachycephalosaurus</item>
     <item>@string/parasaurolophus</item>
     <item>@string/plateosaurus</item>
