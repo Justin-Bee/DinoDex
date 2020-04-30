@@ -1,3 +1,4 @@
+
 <!-- A DrawerLayout is intended to be used as the top-level content view using match_parent for both width and height to consume the full space available. -->
 <androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:id="@+id/drawer_layout"
@@ -24,75 +25,90 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:textSize="35sp"
-                    android:text="Albertosaurus"
+                    android:text="Duriavenator"
                     android:gravity="center"
                     android:id="@+id/textView2"
                     android:paddingBottom="15dp"
                     android:textStyle="bold"/>
+
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/albertosaurus"
-                    android:id="@+id/velociraptor"
+                    android:background="@drawable/duriavenator"
+                    android:id="@+id/gallimimus"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"
-                    android:layout_alignParentEnd="true" />
+                    android:layout_alignParentEnd="true"
+                    android:paddingBottom="15dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext1"
-                    android:layout_below="@+id/velociraptor"
                     android:textSize="15sp"
+                    android:id="@+id/atext1"
+                    android:layout_below="@+id/gallimimus"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Albertosaurus means Alberta lizard"
-                    />
+                    android:text="Duriavenator means Dorset Hunter."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext2"
-                    android:layout_below="@+id/dtext1"
+                    android:id="@+id/atext2"
+                    android:layout_below="@+id/atext1"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Diet: Carnivore"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext3"
-                    android:layout_below="@+id/dtext2"
+                    android:id="@+id/atext3"
+                    android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Cretaceous Period, about 70 million years ago."/>
+                    android:text="Lived During: Middle Jurassic Period 170 million years ago."
+                    />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext4"
-                    android:layout_below="@+id/dtext3"
+                    android:id="@+id/atext4"
+                    android:layout_below="@+id/atext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in North America primarily Alberta, Canada"/>
+                    android:text="Found in England."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext5"
-                    android:layout_below="@+id/dtext4"
+                    android:id="@+id/atext5"
+                    android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 30 feet (9m) in length."/>
+                    android:text="Size: 23 feet (7m) in length."
+                    />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/dtext6"
-                    android:layout_below="@+id/dtext5"
+                    android:id="@+id/atext6"
+                    android:layout_below="@+id/atext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="At one site, there was a discovery of 26 different albertosaurus. This provides evidence that these dinosaurs may have stayed in packs."/>
+                    android:text="Although its fossils were discovered in 1882, it was not classified as its own species until 2008."
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/atext7"
+                    android:layout_below="@+id/atext6"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="Durivenator is also known by its unofficial name of Walkersaurus."
+                    />
+
 
             </RelativeLayout>
         </ScrollView>
 
 
-    </FrameLayout>
 
+    </FrameLayout>
 
 </androidx.drawerlayout.widget.DrawerLayout>
