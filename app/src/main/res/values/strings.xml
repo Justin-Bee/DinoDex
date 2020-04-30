@@ -22,52 +22,53 @@
     <string name="title_section12">Camarasaurus</string>
     <string name="title_section13">Carnotaurus</string>
     <string name="title_section14">Coelophysis</string>
-    <string name="title_section15">Crylophosaurus</string>
-    <string name="title_section16">Deinonychus</string>
-    <string name="title_section17">Dilophosaurus</string>
-    <string name="title_section18">Dimetrodon</string>
-    <string name="title_section19">Diplodocus</string>
-    <string name="title_section20">Edmontonia</string>
-    <string name="title_section21">Elaphrosaurus</string>
-    <string name="title_section22">Elasmosaurus</string>
-    <string name="title_section23">Fukuiraptor</string>
-    <string name="title_section24">Gallimimus</string>
-    <string name="title_section25">Gigantosaurus</string>
-    <string name="title_section26">Guanlong</string>
-    <string name="title_section27">Herrerasaurus</string>
-    <string name="title_section28">Iguanodon</string>
-    <string name="title_section29">Irritator</string>
-    <string name="title_section30">Kronosaurus</string>
-    <string name="title_section31">Limusaurus</string>
-    <string name="title_section32">Liopleurodon</string>
-    <string name="title_section33">Majungasaurus</string>
-    <string name="title_section34">Mircoraptor</string>
-    <string name="title_section35">Mosasaurus</string>
-    <string name="title_section36">Murusraptor</string>
-    <string name="title_section37">Muttaburrasaurus</string>
-    <string name="title_section38">Neovenator</string>
-    <string name="title_section39">Nomingia</string>
-    <string name="title_section40">Pachycephalosaurus</string>
-    <string name="title_section41">Parasaurolophus</string>
-    <string name="title_section42">Plateosaurus</string>
-    <string name="title_section43">Protoceratops</string>
-    <string name="title_section44">Pteranodon</string>
-    <string name="title_section45">Quetzalcoatlus</string>
-    <string name="title_section46">Scutosaurus</string>
-    <string name="title_section47">Skorpiovenator</string>
-    <string name="title_section48">Spinosaurus</string>
-    <string name="title_section49">Spinostropheus</string>
-    <string name="title_section50">Stegoceras</string>
-    <string name="title_section51">Stegosaurus</string>
-    <string name="title_section52">Struthiomimus</string>
-    <string name="title_section53">Styracosaurus</string>
-    <string name="title_section54">Tenontosaurus</string>
-    <string name="title_section55">Therizonosaurus</string>
-    <string name="title_section56">Torvosaurus</string>
-    <string name="title_section57">Tyrannosaurus Rex</string>
-    <string name="title_section58">Triceratops</string>
-    <string name="title_section59">Utah Raptor</string>
-    <string name="title_section60">Velociraptor</string>
+    <string name="title_section15">Compsognathus</string>
+    <string name="title_section16">Crylophosaurus</string>
+    <string name="title_section17">Deinonychus</string>
+    <string name="title_section18">Dilophosaurus</string>
+    <string name="title_section19">Dimetrodon</string>
+    <string name="title_section20">Diplodocus</string>
+    <string name="title_section21">Edmontonia</string>
+    <string name="title_section22">Elaphrosaurus</string>
+    <string name="title_section23">Elasmosaurus</string>
+    <string name="title_section24">Fukuiraptor</string>
+    <string name="title_section25">Gallimimus</string>
+    <string name="title_section26">Gigantosaurus</string>
+    <string name="title_section27">Guanlong</string>
+    <string name="title_section28">Herrerasaurus</string>
+    <string name="title_section29">Iguanodon</string>
+    <string name="title_section30">Irritator</string>
+    <string name="title_section31">Kronosaurus</string>
+    <string name="title_section32">Limusaurus</string>
+    <string name="title_section33">Liopleurodon</string>
+    <string name="title_section34">Majungasaurus</string>
+    <string name="title_section35">Mircoraptor</string>
+    <string name="title_section36">Mosasaurus</string>
+    <string name="title_section37">Murusraptor</string>
+    <string name="title_section38">Muttaburrasaurus</string>
+    <string name="title_section39">Neovenator</string>
+    <string name="title_section40">Nomingia</string>
+    <string name="title_section41">Pachycephalosaurus</string>
+    <string name="title_section42">Parasaurolophus</string>
+    <string name="title_section43">Plateosaurus</string>
+    <string name="title_section44">Protoceratops</string>
+    <string name="title_section45">Pteranodon</string>
+    <string name="title_section46">Quetzalcoatlus</string>
+    <string name="title_section47">Scutosaurus</string>
+    <string name="title_section48">Skorpiovenator</string>
+    <string name="title_section49">Spinosaurus</string>
+    <string name="title_section50">Spinostropheus</string>
+    <string name="title_section51">Stegoceras</string>
+    <string name="title_section52">Stegosaurus</string>
+    <string name="title_section53">Struthiomimus</string>
+    <string name="title_section54">Styracosaurus</string>
+    <string name="title_section55">Tenontosaurus</string>
+    <string name="title_section56">Therizonosaurus</string>
+    <string name="title_section57">Torvosaurus</string>
+    <string name="title_section58">Tyrannosaurus Rex</string>
+    <string name="title_section59">Triceratops</string>
+    <string name="title_section60">Utah Raptor</string>
+    <string name="title_section61">Velociraptor</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -89,6 +90,7 @@
     <string name="camarasaurus">Camarasaurus</string>
     <string name="carnotaurus">Carnotaurus</string>
     <string name="coelophysis">Coelophysis</string>
+    <string name="compsognathus">Compsognathus</string>
     <string name="crylophosaurus">Crylophosaurus</string>
     <string name="deinonychus">Deinonychus</string>
     <string name="dilophosaurus">Dilophosaurus</string>
@@ -154,6 +156,7 @@
     <item>@string/camarasaurus</item>
     <item>@string/carnotaurus</item>
     <item>@string/coelophysis</item>
+    <item>@string/compsognathus</item>
     <item>@string/crylophosaurus</item>
     <item>@string/deinonychus</item>
     <item>@string/dilophosaurus</item>
