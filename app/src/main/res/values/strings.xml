@@ -69,7 +69,8 @@
     <string name="title_section59">Triceratops</string>
     <string name="title_section60">Utah Raptor</string>
     <string name="title_section61">Velociraptor</string>
-    <string name="title_section62">Yanchuanosaurus</string>
+    <string name="title_section62">Xuwulong</string>
+    <string name="title_section63">Yanchuanosaurus</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -138,6 +139,7 @@
     <string name="triceratops">Triceratops</string>
     <string name="utahraptor">Utah Raptor</string>
     <string name="velociraptor">Velociraptor</string>
+    <string name="xuwulong">Xuwulong</string>
     <string name="yanchuanosaurus">Yanchuanosaurus</string>
 
 
@@ -205,6 +207,7 @@
     <item>@string/triceratops</item>
     <item>@string/utahraptor</item>
     <item>@string/velociraptor</item>
+    <item>@string/xuwulong</item>
     <item>@string/yanchuanosaurus</item>
 
 

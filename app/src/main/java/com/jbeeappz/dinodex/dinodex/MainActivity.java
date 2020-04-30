@@ -345,6 +345,10 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 title = getString(R.string.velociraptor);
                 break;
             case 61:
+                fragment = new Xuwulong();
+                title = getString(R.string.xuwulong);
+                break;
+            case 62:
                 fragment = new Yanchuanosaurus();
                 title = getString(R.string.yanchuanosaurus);
                 break;
