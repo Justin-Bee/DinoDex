@@ -64,7 +64,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Early Jurassic Period"
+                    android:text="Lived During: Early Jurassic Period about 195 to 183 million years ago."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -73,7 +73,7 @@
                     android:layout_below="@+id/atext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in India"/>
+                    android:text="Found in India."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,16 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: About 49 feet long."
+                    android:text="Size: About 49 feet (15m) long."
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/atext6"
+                    android:layout_below="@+id/atext5"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
+                    android:text="All of the known fossils of Barapasaurus come from a location near the village of Pochampally, India."
                     />
 
             </RelativeLayout>

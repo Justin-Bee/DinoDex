@@ -49,7 +49,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/amargasaurus"
                 android:paddingBottom="15dp"
                 android:paddingTop="15dp"
-                android:text="Amargasaurus means La Amarga Lizard"/>
+                android:text="Amargasaurus means La Amarga Lizard."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -65,7 +65,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/atext2"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Lived During: Early Cretaceous period 129 - 122 million years ago"
+                android:text="Lived During: Early Cretaceous period 129 - 122 million years ago."
                 />
             <TextView
                 android:layout_width="wrap_content"
@@ -74,7 +74,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/atext3"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Found in Argentina"/>
+                android:text="Found in Argentina."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -82,16 +82,16 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/atext4"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Size: 33 feet long and 10 feet tall."
+                android:text="Size: 33 feet (10m) long and 10 feet (3m) tall."
                 />
             <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/atext6"
-            android:layout_below="@+id/atext5"
-            android:textSize="15sp"
-            android:paddingBottom="15dp"
-            android:text="Amargasaurus had a neck sail. It may have been used to attract mates or to help it regulate its body temperature."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/atext6"
+                android:layout_below="@+id/atext5"
+                android:textSize="15sp"
+                android:paddingBottom="15dp"
+                android:text="Amargasaurus had a neck sail. It may have been used to attract mates or to help it regulate its body temperature."
             />
             <TextView
                 android:layout_width="wrap_content"

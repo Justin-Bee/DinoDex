@@ -65,7 +65,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Jurassic Period"
+                    android:text="Lived During: Late Jurassic Period about 155 to 145 million years ago."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -74,7 +74,7 @@
                     android:layout_below="@+id/atext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in North America"/>
+                    android:text="Found in North America."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: Between 50 and 75 feet long. Weighed about 50 tons."
+                    android:text="Size: Between 50 and 75 feet (15-23m) long. Weighed about 50 tons."
                     />
                 <TextView
                     android:layout_width="wrap_content"

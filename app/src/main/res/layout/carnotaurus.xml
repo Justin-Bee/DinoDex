@@ -73,7 +73,7 @@
                     android:layout_below="@+id/dtext3"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Found in Argentina"/>
+                    android:text="Found in Argentina."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
                     android:layout_below="@+id/dtext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 30 feet long and 9 feet tall."/>
+                    android:text="Size: 30 feet (9m) long and 9 feet (2.75m) tall."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

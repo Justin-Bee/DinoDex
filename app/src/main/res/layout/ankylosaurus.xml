@@ -45,7 +45,7 @@ tools:context=".History" android:background="#F87A17">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Ankylosaurus means Stiffened Lizard"
+                android:text="Ankylosaurus means Stiffened Lizard."
                 android:textSize="15sp"
                 android:layout_below="@+id/ankylo"
                 android:id="@+id/text1"
@@ -67,7 +67,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/text2"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Lived During: Late Cretaceous 68-65 million years ago"/>
+                android:text="Lived During: Late Cretaceous 68-65 million years ago."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -75,7 +75,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/text3"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Found in Western North America"/>
+                android:text="Found in Western North America."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -83,7 +83,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/text4"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Size: 20-30 feet long, 5-9 feet tall"/>
+                android:text="Size: 20-30 feet (6-9m) long, 5-9 feet (1.5-2.75m) tall."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

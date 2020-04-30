@@ -80,7 +80,7 @@ tools:context=".History" android:background="#F87A17">
                 android:layout_below="@+id/btext4"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Size: 80 feet long and about 45 feet tall"/>
+                android:text="Size: 80 feet (24m) long and about 45 feet (13.5m) tall"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -66,7 +66,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Middle Jurassic"
+                    android:text="Lived During: Middle Jurassic."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -83,7 +83,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 49 feet long."
+                    android:text="Size: 49 feet (15m) long."
                     />
                 <TextView
                     android:layout_width="wrap_content"

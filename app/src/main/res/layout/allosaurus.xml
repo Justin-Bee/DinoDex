@@ -51,7 +51,7 @@ tools:context=".History"
                 android:layout_below="@+id/allosaurus"
                 android:paddingBottom="15dp"
                 android:paddingTop="15dp"
-                android:text="Allosaurus means Other Lizard"/>
+                android:text="Allosaurus means Other Lizard."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -67,7 +67,7 @@ tools:context=".History"
                 android:layout_below="@+id/atext2"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Lived During: Late Jurassic 155-145 million years ago"
+                android:text="Lived During: Late Jurassic 155-145 million years ago."
                 />
             <TextView
                 android:layout_width="wrap_content"
@@ -76,7 +76,7 @@ tools:context=".History"
                 android:layout_below="@+id/atext3"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Found in Utah (USA), Portugal, and Tanzania"/>
+                android:text="Found in Utah (USA), Portugal, and Tanzania."/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -84,7 +84,7 @@ tools:context=".History"
                 android:layout_below="@+id/atext4"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Size: 35 feet long, 17 feet tall"
+                android:text="Size: 35 feet (10.5m) long, 17 feet (5m) tall."
                 />
             <TextView
                 android:layout_width="wrap_content"
@@ -102,7 +102,7 @@ tools:context=".History"
                 android:layout_below="@+id/atext6"
                 android:textSize="15sp"
                 android:paddingBottom="15dp"
-                android:text="Allosaurus was discovered in 1877 by Othniel Charles Marsh"
+                android:text="Allosaurus was discovered in 1877 by Othniel Charles Marsh."
                 />
         </RelativeLayout>
     </ScrollView>

@@ -81,7 +81,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 10 feet in length and about 3 feet tall."
+                    android:text="Size: 10 feet (3m) in length and about 3 feet (1m) tall."
                     />
 
 

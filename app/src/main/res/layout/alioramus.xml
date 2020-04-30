@@ -78,7 +78,7 @@
                     android:layout_below="@+id/dtext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 16 to 20 feet in length."/>
+                    android:text="Size: 16 to 20 feet (5m) in length."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
