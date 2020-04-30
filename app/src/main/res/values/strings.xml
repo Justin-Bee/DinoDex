@@ -55,22 +55,23 @@
     <string name="title_section45">Pteranodon</string>
     <string name="title_section46">Quetzalcoatlus</string>
     <string name="title_section47">Scutosaurus</string>
-    <string name="title_section48">Skorpiovenator</string>
-    <string name="title_section49">Spinosaurus</string>
-    <string name="title_section50">Spinostropheus</string>
-    <string name="title_section51">Stegoceras</string>
-    <string name="title_section52">Stegosaurus</string>
-    <string name="title_section53">Struthiomimus</string>
-    <string name="title_section54">Styracosaurus</string>
-    <string name="title_section55">Tenontosaurus</string>
-    <string name="title_section56">Therizonosaurus</string>
-    <string name="title_section57">Torvosaurus</string>
-    <string name="title_section58">Tyrannosaurus Rex</string>
-    <string name="title_section59">Triceratops</string>
-    <string name="title_section60">Utah Raptor</string>
-    <string name="title_section61">Velociraptor</string>
-    <string name="title_section62">Xuwulong</string>
-    <string name="title_section63">Yanchuanosaurus</string>
+    <string name="title_section48">Sinornithosaurus</string>
+    <string name="title_section49">Skorpiovenator</string>
+    <string name="title_section50">Spinosaurus</string>
+    <string name="title_section51">Spinostropheus</string>
+    <string name="title_section52">Stegoceras</string>
+    <string name="title_section53">Stegosaurus</string>
+    <string name="title_section54">Struthiomimus</string>
+    <string name="title_section55">Styracosaurus</string>
+    <string name="title_section56">Tenontosaurus</string>
+    <string name="title_section57">Therizonosaurus</string>
+    <string name="title_section58">Torvosaurus</string>
+    <string name="title_section59">Tyrannosaurus Rex</string>
+    <string name="title_section60">Triceratops</string>
+    <string name="title_section61">Utah Raptor</string>
+    <string name="title_section62">Velociraptor</string>
+    <string name="title_section63">Xuwulong</string>
+    <string name="title_section64">Yanchuanosaurus</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -125,6 +126,7 @@
     <string name="pteranodon">Pteranodon</string>
     <string name="quetzalcoatlus">Quetzalcoatlus</string>
     <string name="scutosaurus">Scutosaurus</string>
+    <string name="sinornithosaurus">Sinornithosaurus</string>
     <string name="skorpiovenator">Skorpiovenator</string>
     <string name="spinosaurus">Spinosaurus</string>
     <string name="spinostropheus">Spinostropheus</string>
@@ -193,6 +195,7 @@
     <item>@string/pteranodon</item>
     <item>@string/quetzalcoatlus</item>
     <item>@string/scutosaurus</item>
+    <item>@string/sinornithosaurus</item>
     <item>@string/skorpiovenator</item>
     <item>@string/spinosaurus</item>
     <item>@string/spinostropheus</item>
