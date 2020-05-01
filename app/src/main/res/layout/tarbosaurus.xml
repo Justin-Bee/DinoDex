@@ -25,7 +25,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:textSize="35sp"
-                    android:text="Homalocephale"
+                    android:text="Tarbosaurus"
                     android:gravity="center"
                     android:id="@+id/textView2"
                     android:paddingBottom="15dp"
@@ -34,7 +34,7 @@
                 <ImageView
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
-                    android:background="@drawable/homalocephale"
+                    android:background="@drawable/tarbosaurus"
                     android:id="@+id/gallimimus"
                     android:layout_below="@+id/textView2"
                     android:layout_alignParentRight="true"
@@ -48,7 +48,7 @@
                     android:layout_below="@+id/gallimimus"
                     android:paddingBottom="15dp"
                     android:paddingTop="15dp"
-                    android:text="Homalocephale means even head."/>
+                    android:text="Tarbosaurus means alarming lizard."/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -56,7 +56,7 @@
                     android:layout_below="@+id/atext1"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Diet: Herbivore"/>
+                    android:text="Diet: Carnoivore"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
                     android:layout_below="@+id/atext2"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Lived During: Late Cretaceous Period 72 to 68 million years ago."
+                    android:text="Lived During: Late Cretaceous Period 70 million years ago."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -81,7 +81,7 @@
                     android:layout_below="@+id/atext4"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Size: 6 feet (1.75m) in length."
+                    android:text="Size: 33 feet (10m) in length."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -90,7 +90,7 @@
                     android:layout_below="@+id/atext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Homalocephale was different from other types of pachycephalosaurs because it had a flat top to its skull."
+                    android:text="Tarbosaurus was discovered in 1946  by a Soviet-Mongolian Expedition to the Gobi Desert."
                     />
                 <TextView
                     android:layout_width="wrap_content"
@@ -99,7 +99,7 @@
                     android:layout_below="@+id/atext6"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
-                    android:text="Because of its long legs, it is supposed to have been a fast runner."
+                    android:text="Tarbosaurus was not only a predatory hunter, its was also a scavenger."
                     />
 
 

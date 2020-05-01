@@ -71,15 +71,16 @@
     <string name="title_section61">Stegosaurus</string>
     <string name="title_section62">Struthiomimus</string>
     <string name="title_section63">Styracosaurus</string>
-    <string name="title_section64">Tenontosaurus</string>
-    <string name="title_section65">Therizonosaurus</string>
-    <string name="title_section66">Torvosaurus</string>
-    <string name="title_section67">Tyrannosaurus Rex</string>
-    <string name="title_section68">Triceratops</string>
-    <string name="title_section69">Utah Raptor</string>
-    <string name="title_section70">Velociraptor</string>
-    <string name="title_section71">Xuwulong</string>
-    <string name="title_section72">Yanchuanosaurus</string>
+    <string name="title_section64">Tarbosaurus</string>
+    <string name="title_section65">Tenontosaurus</string>
+    <string name="title_section66">Therizonosaurus</string>
+    <string name="title_section67">Torvosaurus</string>
+    <string name="title_section68">Tyrannosaurus Rex</string>
+    <string name="title_section69">Triceratops</string>
+    <string name="title_section70">Utah Raptor</string>
+    <string name="title_section71">Velociraptor</string>
+    <string name="title_section72">Xuwulong</string>
+    <string name="title_section73">Yanchuanosaurus</string>
     <string name="index">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -150,6 +151,7 @@
     <string name="stegosaurus">Stegosaurus</string>
     <string name="strutiomimus">Struthiomimus</string>
     <string name="styracosaurus">Styracosaurus</string>
+    <string name="tarbosaurus">Tarbosaurus</string>
     <string name="tenontosaurus">Tenontosaurus</string>
     <string name="therizonosaurus">Therizonosaurus</string>
     <string name="torvosaurus">Torvosaurus</string>
@@ -227,6 +229,7 @@
     <item>@string/stegosaurus</item>
     <item>@string/strutiomimus</item>
     <item>@string/styracosaurus</item>
+    <item>@string/tarbosaurus</item>
     <item>@string/tenontosaurus</item>
     <item>@string/therizonosaurus</item>
     <item>@string/torvosaurus</item>
