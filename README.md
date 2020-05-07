@@ -1,6 +1,5 @@
 # DinoDex
 
-Features of 70 different dinpsaurs with full color pictures and information about each.
 
  
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -8,6 +7,8 @@ Features of 70 different dinpsaurs with full color pictures and information abou
 [![Author](https://img.shields.io/badge/Author-Justin%20Bee-blue.svg)](mailto:jbee.appz@gmail.com)
 
 ## About
+Features of 70 different dinpsaurs with full color pictures and information about each.
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
       alt="Get it on Google Play"
       height="80">](https://play.google.com/store/apps/details?id=com.jbeeappz.dinodex.dinodex&hl=en_US)
