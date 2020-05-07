@@ -1,5 +1,6 @@
 # DinoDex
 
+Features of 70 different dinpsaurs with full color pictures and information about each.
 
  
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
