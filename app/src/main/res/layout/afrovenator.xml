@@ -90,14 +90,23 @@
                     android:layout_below="@+id/atext5"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
+                    android:text="Weighed about 2,200 pounds (995 KG)."
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/atext7"
+                    android:layout_below="@+id/atext6"
+                    android:textSize="15sp"
+                    android:paddingBottom="15dp"
                     android:text="Afrovenator is known from a single, almost complete skeleton."
                     />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/atext7"
-                    android:layout_below="@+id/atext6"
+                    android:id="@+id/atext8"
+                    android:layout_below="@+id/atext7"
                     android:textSize="15sp"
                     android:paddingBottom="15dp"
                     android:text="Afrovenator was first discovered in 1993 in Niger."
